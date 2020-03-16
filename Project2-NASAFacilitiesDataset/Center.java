@@ -23,8 +23,8 @@ public class Center {
                 "        <rdf:type rdf:resource=\"./NasaLabFacilitiesOntology#Center\"/>\n" +
                 "        <nfl:hasCenterLocation rdf:resource=\"" + location.getAbout() + "\"/>\n" +
                 "        <nfl:hasPOC rdf:resource=\"" + poc.getAbout() + "\"/>\n" +
-                "        <nfl:hasName>" + name + "<nfl:hasCountry>\n" +
-                "        <nfl:hasSearchStatus>" + searchStatus + "<nfl:hasState>\n" +
+                "        <nfl:name>" + name + "<nfl:name>\n" +
+                "        <nfl:searchStatus>" + searchStatus + "<nfl:searchStatus>\n" +
                 "    </owl:NamedIndividual>\n\n";
 
         return rdf;
