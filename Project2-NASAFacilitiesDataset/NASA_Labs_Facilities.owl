@@ -1,50 +1,78 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="./NasaLabFacilitiesOntology"
-     xmlns:nfl="./NasaLabFacilitiesOntology#"
+<rdf:RDF xmlns="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology"
+     xml:base="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology"
+     xmlns:nfl="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <owl:Ontology rdf:about="./NasaLabFacilitiesOntology"/>
+    <owl:Ontology rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology"/>
     
 
 
-    <!-- Object Properties -->
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasCenterLocation -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#hasCenterLocation -->
 
-    <owl:ObjectProperty rdf:about="./NasaLabFacilitiesOntology#hasCenterLocation">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#Center"/>
-        <rdfs:range rdf:resource="./NasaLabFacilitiesOntology#CenterLocation"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#hasCenterLocation">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Center"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#CenterLocation"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasPOC -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#hasPOC -->
 
-    <owl:ObjectProperty rdf:about="./NasaLabFacilitiesOntology#hasPOC">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#Center"/>
-        <rdfs:range rdf:resource="./NasaLabFacilitiesOntology#PersonOfContact"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#hasPOC">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Center"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#PersonOfContact"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#locatedInCenter -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#locatedInCenter -->
 
-    <owl:ObjectProperty rdf:about="./NasaLabFacilitiesOntology#locatedInCenter">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#Facility"/>
-        <rdfs:range rdf:resource="./NasaLabFacilitiesOntology#Center"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#locatedInCenter">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Facility"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Center"/>
     </owl:ObjectProperty>
- 
+    
 
-    <!--  Data properties  -->
 
-    <!-- ./NasaLabFacilitiesOntology#belongsToAgency -->
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#belongsToAgency">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#Facility"/>
+    
+
+
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#address -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#address">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#CenterLocation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#belongsToAgency -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#belongsToAgency">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Facility"/>
         <rdfs:range>
             <rdfs:Datatype>
                 <owl:oneOf>
@@ -90,67 +118,58 @@
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasAddress -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#city -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasAddress">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#CenterLocation"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#city">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#CenterLocation"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasCity -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#country -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasCity">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#CenterLocation"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#country">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#CenterLocation"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasCountry -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#mailStop -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasCountry">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#CenterLocation"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#mailStop">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#PersonOfContact"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasMailStop -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#name -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasMailStop">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#PersonOfContact"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#name">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Center"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Facility"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#PersonOfContact"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasName -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#phoneNumber -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasName">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#Center"/>
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#Facility"/>
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#PersonOfContact"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#phoneNumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#PersonOfContact"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasPhoneNumber -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#searchStatus -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasPhoneNumber">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#PersonOfContact"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- ./NasaLabFacilitiesOntology#hasSearchStatus -->
-
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasSearchStatus">
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#searchStatus">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#Center"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Center"/>
         <rdfs:range>
             <rdfs:Datatype>
                 <owl:oneOf>
@@ -172,37 +191,37 @@
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasState -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#state -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasState">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#CenterLocation"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#state">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#CenterLocation"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasStatus -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#status -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasStatus">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#Facility"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#status">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Facility"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasURL -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#url -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasURL">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#Facility"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#url">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Facility"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasYearOccupied -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#yearOccupied -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasYearOccupied">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#Facility"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#yearOccupied">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Facility"/>
         <rdfs:range>
             <rdfs:Datatype>
                 <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
@@ -220,46 +239,54 @@
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#hasZipCode -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#zipCode -->
 
-    <owl:DatatypeProperty rdf:about="./NasaLabFacilitiesOntology#hasZipCode">
-        <rdfs:domain rdf:resource="./NasaLabFacilitiesOntology#CenterLocation"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#zipCode">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#CenterLocation"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- Classes -->
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
 
-
-    <!-- ./NasaLabFacilitiesOntology#Center -->
-
-    <owl:Class rdf:about="./NasaLabFacilitiesOntology#Center"/>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#CenterLocation -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Center -->
 
-    <owl:Class rdf:about="./NasaLabFacilitiesOntology#CenterLocation"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Center"/>
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#Facility -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#CenterLocation -->
 
-    <owl:Class rdf:about="./NasaLabFacilitiesOntology#Facility">
+    <owl:Class rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#CenterLocation"/>
+    
+
+
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Facility -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#Facility">
         <rdfs:subClassOf>
             <owl:Class>
                 <owl:intersectionOf rdf:parseType="Collection">
                     <owl:Restriction>
-                        <owl:onProperty rdf:resource="./NasaLabFacilitiesOntology#hasStatus"/>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#status"/>
                         <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</owl:minCardinality>
                     </owl:Restriction>
                     <owl:Restriction>
-                        <owl:onProperty rdf:resource="./NasaLabFacilitiesOntology#hasURL"/>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#url"/>
                         <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</owl:minCardinality>
                     </owl:Restriction>
                     <owl:Restriction>
-                        <owl:onProperty rdf:resource="./NasaLabFacilitiesOntology#hasYearOccupied"/>
+                        <owl:onProperty rdf:resource="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#yearOccupied"/>
                         <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</owl:minCardinality>
                     </owl:Restriction>
                 </owl:intersectionOf>
@@ -269,10 +296,11 @@
     
 
 
-    <!-- ./NasaLabFacilitiesOntology#PersonOfContact -->
+    <!-- http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#PersonOfContact -->
 
-    <owl:Class rdf:about="./NasaLabFacilitiesOntology#PersonOfContact"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/gutie/ontologies/2020/2/NasaLabFacilitiesOntology#PersonOfContact"/>
     
+
 
     <!-- Individuals -->
 
