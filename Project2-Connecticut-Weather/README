@@ -1,0 +1,12 @@
+README
+
+About:
+This java program converts the given culmination of Connecticut weather stations dataset csv file into an ontology in the form of an OWL file.
+
+
+To compile:
+javac -Xlint Main.java CSVtoOWLConverter.java
+
+
+To run:
+java Main
