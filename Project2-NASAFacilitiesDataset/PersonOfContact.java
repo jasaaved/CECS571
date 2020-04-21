@@ -19,9 +19,9 @@ public class PersonOfContact {
         String rdf = "    <!-- " + about +"-->\n" +
                 "    <owl:NamedIndividual rdf:about=\"" + about + "\">\n" +
                 "        <rdf:type rdf:resource=\"./NasaLabFacilitiesOntology#PersonOfContact\"/>\n" +
-                "        <nfl:hasMailStop>" + mailStop + "</nfl:hasMailStop>\n" +
-                "        <nfl:hasName>" + name + "</nfl:hasName>\n" +
-                "        <nfl:hasPhoneNumber>" + phoneNumber + "</nfl:hasPhoneNumber>\n" +
+                "        <nfl:mailStop>" + mailStop + "</nfl:mailStop>\n" +
+                "        <nfl:name>" + name + "</nfl:name>\n" +
+                "        <nfl:phoneNumber>" + phoneNumber + "</nfl:phoneNumber>\n" +
                 "    </owl:NamedIndividual>\n\n";
 
         return rdf;

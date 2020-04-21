@@ -1,5 +1,6 @@
 import java.util.Objects;
 
+
 public class CenterLocation {
 
     private String address;
@@ -24,11 +25,11 @@ public class CenterLocation {
         String rdf = "    <!-- " + about +"-->\n" +
                 "    <owl:NamedIndividual rdf:about=\"" + about + "\">\n" +
                 "        <rdf:type rdf:resource=\"./NasaLabFacilitiesOntology#CenterLocation\"/>\n" +
-                "        <nfl:hasAddress>" + address + "<nfl:hasAddress>\n" +
-                "        <nfl:hasCity>" + city + "<nfl:hasCity>\n" +
-                "        <nfl:hasCountry>" + country + "<nfl:hasCountry>\n" +
-                "        <nfl:hasState>" + state + "<nfl:hasState>\n" +
-                "        <nfl:hasZipCode>" + zipCode + "<nfl:hasZipCode>\n" +
+                "        <nfl:address>" + address + "<nfl:address>\n" +
+                "        <nfl:city>" + city + "<nfl:city>\n" +
+                "        <nfl:country>" + country + "<nfl:country>\n" +
+                "        <nfl:state>" + state + "<nfl:state>\n" +
+                "        <nfl:zipCode>" + zipCode + "<nfl:zipCode>\n" +
                 "    </owl:NamedIndividual>\n\n";
 
         return rdf;

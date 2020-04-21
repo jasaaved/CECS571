@@ -42,16 +42,16 @@ public class Facility {
                 "        <rdf:type rdf:resource=\"./NasaLabFacilitiesOntology#Facility\"/>\n" +
                 "        <nfl:locatedInCenter rdf:resource=\""+ location.getAbout() +"\"/>\n" +
                 "        <nfl:belongsToAgency>"+ agency +"</nfl:belongsToAgency>\n" +
-                "        <nfl:hasName>"+ name +"</nfl:hasName>\n";
+                "        <nfl:name>"+ name +"</nfl:name>\n";
 
         if (status != null)
-            rdf += "        <nfl:hasStatus>"+ status +"</nfl:hasStatus>\n";
+            rdf += "        <nfl:status>"+ status +"</nfl:status>\n";
 
         if (URL != null)
-            rdf += "        <nfl:hasURL>"+ URL +"</nfl:hasURL>\n";
+            rdf += "        <nfl:url>"+ URL +"</nfl:url>\n";
 
         if (yearOccupied != null)
-            rdf += "        <nfl:hasYearOccupied rdf:datatype=\"http://www.w3.org/2001/XMLSchema#integer\">"+ yearOccupied +"</nfl:hasYearOccupied>\n";
+            rdf += "        <nfl:yearOccupied rdf:datatype=\"http://www.w3.org/2001/XMLSchema#integer\">"+ yearOccupied +"</nfl:yearOccupied>\n";
 
 
         rdf += "    </owl:NamedIndividual>\n\n";
