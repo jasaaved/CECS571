@@ -1,0 +1,3378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ds="https://data.ct.gov/resource/deaths/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dsbase="https://data.ct.gov/resource/"
+>
+  <dsbase:Person rdf:about="USW00014740">
+    <ds:DATE>2013-09-23</ds:DATE>
+    <ds:DATE>2015-01-10</ds:DATE>
+    <ds:DATE>2014-10-28</ds:DATE>
+    <ds:DATE>2015-10-06</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</ds:TMIN>
+    <ds:DATE>2013-11-18</ds:DATE>
+    <ds:DATE>2014-04-09</ds:DATE>
+    <ds:DATE>2014-03-01</ds:DATE>
+    <ds:DATE>2016-12-30</ds:DATE>
+    <ds:DATE>2018-05-15</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.11</ds:AWND>
+    <ds:DATE>2017-07-17</ds:DATE>
+    <ds:DATE>2017-10-20</ds:DATE>
+    <ds:DATE>2013-11-26</ds:DATE>
+    <ds:DATE>2014-10-31</ds:DATE>
+    <ds:DATE>2016-05-31</ds:DATE>
+    <ds:DATE>2012-09-17</ds:DATE>
+    <ds:DATE>2018-06-25</ds:DATE>
+    <ds:DATE>2016-12-12</ds:DATE>
+    <ds:DATE>2017-07-30</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.41</ds:PRCP>
+    <ds:DATE>2018-04-27</ds:DATE>
+    <ds:DATE>2016-03-18</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.22</ds:AWND>
+    <ds:DATE>2013-12-21</ds:DATE>
+    <ds:DATE>2014-04-21</ds:DATE>
+    <ds:DATE>2012-02-02</ds:DATE>
+    <ds:DATE>2017-05-28</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</ds:TMAX>
+    <ds:DATE>2017-10-16</ds:DATE>
+    <ds:DATE>2014-10-02</ds:DATE>
+    <ds:DATE>2015-10-10</ds:DATE>
+    <ds:DATE>2017-01-30</ds:DATE>
+    <ds:DATE>2018-05-07</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.0</ds:WSF5>
+    <ds:DATE>2014-10-14</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.12</ds:AWND>
+    <ds:DATE>2013-11-07</ds:DATE>
+    <ds:DATE>2017-04-21</ds:DATE>
+    <ds:DATE>2017-12-18</ds:DATE>
+    <ds:DATE>2018-05-27</ds:DATE>
+    <ds:DATE>2014-11-13</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.4</ds:SNOW>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.0</ds:TAVG>
+    <ds:DATE>2017-07-21</ds:DATE>
+    <ds:DATE>2017-11-21</ds:DATE>
+    <ds:DATE>2016-12-19</ds:DATE>
+    <ds:DATE>2017-09-04</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.51</ds:PRCP>
+    <ds:DATE>2018-05-08</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.21</ds:PRCP>
+    <ds:DATE>2013-09-18</ds:DATE>
+    <ds:DATE>2015-07-28</ds:DATE>
+    <ds:DATE>2018-06-07</ds:DATE>
+    <ds:DATE>2018-01-26</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1522.0</ds:PGTM>
+    <ds:DATE>2016-11-11</ds:DATE>
+    <ds:DATE>2014-05-21</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1416.0</ds:PGTM>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.79</ds:PRCP>
+    <ds:DATE>2013-04-25</ds:DATE>
+    <ds:DATE>2014-09-27</ds:DATE>
+    <ds:DATE>2017-09-28</ds:DATE>
+    <ds:DATE>2016-11-29</ds:DATE>
+    <ds:DATE>2016-01-15</ds:DATE>
+    <ds:DATE>2013-07-24</ds:DATE>
+    <ds:DATE>2017-07-22</ds:DATE>
+    <ds:DATE>2016-06-16</ds:DATE>
+    <ds:DATE>2016-07-02</ds:DATE>
+    <ds:DATE>2016-09-05</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.0</ds:TAVG>
+    <ds:DATE>2017-11-13</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.4</ds:AWND>
+    <ds:DATE>2012-01-02</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.13</ds:PRCP>
+    <ds:DATE>2014-03-09</ds:DATE>
+    <ds:DATE>2017-09-11</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ds:TMAX>
+    <ds:DATE>2014-01-29</ds:DATE>
+    <ds:DATE>2016-03-29</ds:DATE>
+    <ds:DATE>2014-02-04</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.82</ds:PRCP>
+    <ds:DATE>2017-07-04</ds:DATE>
+    <ds:DATE>2014-02-17</ds:DATE>
+    <ds:DATE>2014-01-14</ds:DATE>
+    <ds:DATE>2015-05-17</ds:DATE>
+    <ds:DATE>2018-04-28</ds:DATE>
+    <ds:DATE>2015-01-13</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</ds:WDF2>
+    <ds:DATE>2018-04-18</ds:DATE>
+    <ds:DATE>2018-11-18</ds:DATE>
+    <ds:DATE>2017-08-10</ds:DATE>
+    <ds:DATE>2012-06-18</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.05</ds:AWND>
+    <ds:DATE>2013-11-08</ds:DATE>
+    <ds:DATE>2014-12-02</ds:DATE>
+    <ds:DATE>2013-04-06</ds:DATE>
+    <ds:DATE>2016-07-05</ds:DATE>
+    <ds:DATE>2017-12-25</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.1</ds:WSF5>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.9</ds:WSF2>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</ds:WDF2>
+    <ds:DATE>2016-09-17</ds:DATE>
+    <ds:DATE>2016-03-17</ds:DATE>
+    <ds:DATE>2017-12-08</ds:DATE>
+    <ds:DATE>2018-03-10</ds:DATE>
+    <ds:DATE>2018-11-10</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">360.0</ds:WDF5>
+    <ds:DATE>2018-05-01</ds:DATE>
+    <ds:DATE>2018-05-17</ds:DATE>
+    <ds:DATE>2012-10-23</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.0</ds:WSF5>
+    <ds:DATE>2013-07-22</ds:DATE>
+    <ds:DATE>2014-10-07</ds:DATE>
+    <ds:DATE>2018-09-28</ds:DATE>
+    <ds:DATE>2016-09-11</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">220.0</ds:WDF5>
+    <ds:DATE>2012-12-09</ds:DATE>
+    <ds:DATE>2012-12-20</ds:DATE>
+    <ds:DATE>2013-09-04</ds:DATE>
+    <ds:DATE>2015-06-18</ds:DATE>
+    <ds:DATE>2013-04-21</ds:DATE>
+    <ds:DATE>2015-08-18</ds:DATE>
+    <ds:DATE>2016-03-02</ds:DATE>
+    <ds:DATE>2018-01-23</ds:DATE>
+    <ds:DATE>2015-05-11</ds:DATE>
+    <ds:DATE>2017-03-22</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">72.0</ds:TAVG>
+    <ds:DATE>2013-09-10</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">71.0</ds:TAVG>
+    <ds:DATE>2018-04-17</ds:DATE>
+    <ds:DATE>2012-06-26</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.53</ds:PRCP>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.25</ds:PRCP>
+    <ds:DATE>2016-07-09</ds:DATE>
+    <ds:DATE>2013-03-30</ds:DATE>
+    <ds:DATE>2017-12-16</ds:DATE>
+    <ds:DATE>2018-11-11</ds:DATE>
+    <ds:DATE>2017-04-19</ds:DATE>
+    <ds:DATE>2012-06-28</ds:DATE>
+    <ds:DATE>2014-06-09</ds:DATE>
+    <ds:DATE>2014-10-13</ds:DATE>
+    <ds:DATE>2016-06-28</ds:DATE>
+    <ds:DATE>2018-05-09</ds:DATE>
+    <ds:DATE>2015-12-28</ds:DATE>
+    <ds:DATE>2015-05-10</ds:DATE>
+    <ds:DATE>2012-11-25</ds:DATE>
+    <ds:DATE>2015-06-30</ds:DATE>
+    <ds:DATE>2014-01-12</ds:DATE>
+    <ds:DATE>2014-04-29</ds:DATE>
+    <ds:DATE>2015-08-17</ds:DATE>
+    <ds:DATE>2015-12-06</ds:DATE>
+    <ds:DATE>2013-10-14</ds:DATE>
+    <ds:DATE>2018-10-08</ds:DATE>
+    <ds:DATE>2018-04-24</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.99</ds:AWND>
+    <ds:DATE>2013-04-20</ds:DATE>
+    <ds:DATE>2016-02-19</ds:DATE>
+    <ds:DATE>2015-09-15</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.0</ds:WDF5>
+    <ds:DATE>2014-04-20</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ds:TMAX>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-5</ds:TMIN>
+    <ds:DATE>2018-08-17</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.5</ds:SNOW>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">654.0</ds:PGTM>
+    <ds:DATE>2018-02-28</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ds:SNOW>
+    <ds:DATE>2016-01-12</ds:DATE>
+    <ds:DATE>2015-10-26</ds:DATE>
+    <ds:DATE>2016-06-01</ds:DATE>
+    <ds:DATE>2016-01-01</ds:DATE>
+    <ds:DATE>2014-07-08</ds:DATE>
+    <ds:DATE>2016-05-04</ds:DATE>
+    <ds:DATE>2014-02-19</ds:DATE>
+    <ds:DATE>2018-08-29</ds:DATE>
+    <ds:DATE>2015-06-21</ds:DATE>
+    <ds:DATE>2013-01-29</ds:DATE>
+    <ds:WT14 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT14>
+    <ds:DATE>2016-11-09</ds:DATE>
+    <ds:DATE>2013-10-20</ds:DATE>
+    <ds:DATE>2016-01-25</ds:DATE>
+    <ds:DATE>2017-12-11</ds:DATE>
+    <ds:DATE>2012-06-11</ds:DATE>
+    <ds:DATE>2012-10-09</ds:DATE>
+    <ds:DATE>2015-03-07</ds:DATE>
+    <ds:DATE>2017-05-06</ds:DATE>
+    <ds:DATE>2012-10-11</ds:DATE>
+    <ds:DATE>2014-12-12</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ds:TMAX>
+    <ds:DATE>2016-02-18</ds:DATE>
+    <ds:DATE>2014-01-07</ds:DATE>
+    <ds:DATE>2018-08-06</ds:DATE>
+    <ds:DATE>2017-03-18</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ds:TMIN>
+    <ds:DATE>2016-06-20</ds:DATE>
+    <ds:DATE>2017-02-22</ds:DATE>
+    <ds:DATE>2012-08-06</ds:DATE>
+    <ds:DATE>2018-04-06</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</ds:WDF2>
+    <ds:WT05 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT05>
+    <ds:DATE>2016-04-07</ds:DATE>
+    <ds:DATE>2016-10-03</ds:DATE>
+    <ds:DATE>2014-04-17</ds:DATE>
+    <ds:DATE>2017-10-08</ds:DATE>
+    <ds:DATE>2018-06-08</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ds:TMAX>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.18</ds:PRCP>
+    <ds:DATE>2015-12-11</ds:DATE>
+    <ds:DATE>2012-12-31</ds:DATE>
+    <ds:DATE>2012-06-20</ds:DATE>
+    <ds:DATE>2016-04-11</ds:DATE>
+    <ds:DATE>2016-04-02</ds:DATE>
+    <ds:DATE>2018-10-12</ds:DATE>
+    <ds:DATE>2015-11-01</ds:DATE>
+    <ds:DATE>2016-10-25</ds:DATE>
+    <ds:DATE>2017-05-22</ds:DATE>
+    <ds:DATE>2016-02-26</ds:DATE>
+    <ds:DATE>2016-11-06</ds:DATE>
+    <ds:DATE>2014-03-08</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190</ds:WDF2>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ds:TMIN>
+    <ds:DATE>2013-11-19</ds:DATE>
+    <ds:DATE>2014-01-20</ds:DATE>
+    <ds:DATE>2014-05-03</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">190.0</ds:WDF5>
+    <ds:DATE>2018-05-03</ds:DATE>
+    <ds:DATE>2013-06-18</ds:DATE>
+    <ds:DATE>2012-11-08</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.03</ds:AWND>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.53</ds:AWND>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.0</ds:TAVG>
+    <ds:DATE>2014-03-25</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.47</ds:PRCP>
+    <ds:DATE>2014-11-28</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.1</ds:WSF2>
+    <ds:DATE>2015-03-22</ds:DATE>
+    <ds:DATE>2014-07-01</ds:DATE>
+    <ds:DATE>2018-05-31</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3</ds:PRCP>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.9</ds:SNOW>
+    <ds:DATE>2012-10-15</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ds:TMIN>
+    <ds:DATE>2018-11-06</ds:DATE>
+    <ds:DATE>2018-07-13</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</ds:TMIN>
+    <ds:DATE>2012-09-30</ds:DATE>
+    <ds:DATE>2013-06-06</ds:DATE>
+    <ds:DATE>2014-04-16</ds:DATE>
+    <ds:DATE>2018-03-03</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.93</ds:PRCP>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ds:TMAX>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.78</ds:PRCP>
+    <ds:DATE>2015-08-30</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</ds:TMAX>
+    <ds:DATE>2017-02-08</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ds:TMAX>
+    <ds:DATE>2014-09-07</ds:DATE>
+    <ds:DATE>2015-11-23</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.13</ds:AWND>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.1</ds:SNWD>
+    <ds:DATE>2013-06-20</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.15</ds:PRCP>
+    <ds:DATE>2017-06-08</ds:DATE>
+    <ds:DATE>2015-02-21</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ds:TMIN>
+    <ds:DATE>2013-07-04</ds:DATE>
+    <ds:DATE>2012-07-11</ds:DATE>
+    <ds:DATE>2015-10-28</ds:DATE>
+    <ds:DATE>2013-07-16</ds:DATE>
+    <ds:DATE>2017-01-12</ds:DATE>
+    <ds:DATE>2017-10-01</ds:DATE>
+    <ds:DATE>2012-09-24</ds:DATE>
+    <ds:DATE>2014-02-14</ds:DATE>
+    <ds:DATE>2016-09-09</ds:DATE>
+    <ds:DATE>2012-07-29</ds:DATE>
+    <ds:DATE>2017-07-14</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.47</ds:PRCP>
+    <ds:DATE>2018-09-22</ds:DATE>
+    <ds:DATE>2012-01-29</ds:DATE>
+    <ds:DATE>2016-03-07</ds:DATE>
+    <ds:DATE>2014-08-14</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.11</ds:PRCP>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.87</ds:AWND>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.1</ds:WSF2>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.9</ds:WSF2>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</ds:TMAX>
+    <ds:DATE>2012-09-21</ds:DATE>
+    <ds:DATE>2018-07-21</ds:DATE>
+    <ds:DATE>2012-04-28</ds:DATE>
+    <ds:DATE>2014-11-29</ds:DATE>
+    <ds:DATE>2013-04-22</ds:DATE>
+    <ds:DATE>2014-05-13</ds:DATE>
+    <ds:DATE>2012-01-22</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">340.0</ds:WDF5>
+    <ds:DATE>2018-05-13</ds:DATE>
+    <ds:DATE>2014-01-27</ds:DATE>
+    <ds:DATE>2012-03-09</ds:DATE>
+    <ds:DATE>2017-07-23</ds:DATE>
+    <ds:DATE>2014-01-26</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.71</ds:AWND>
+    <ds:DATE>2015-06-06</ds:DATE>
+    <ds:DATE>2014-02-27</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</ds:TMIN>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.1</ds:SNWD>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.0</ds:TAVG>
+    <ds:DATE>2014-09-25</ds:DATE>
+    <ds:DATE>2016-06-19</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">917.0</ds:PGTM>
+    <ds:DATE>2013-09-14</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.0</ds:WSF5>
+    <ds:DATE>2014-05-30</ds:DATE>
+    <ds:DATE>2017-10-15</ds:DATE>
+    <ds:DATE>2016-08-09</ds:DATE>
+    <ds:DATE>2018-01-04</ds:DATE>
+    <ds:DATE>2013-03-24</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.6</ds:SNOW>
+    <ds:DATE>2018-06-21</ds:DATE>
+    <ds:DATE>2013-06-27</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.9</ds:WSF5>
+    <ds:DATE>2013-09-20</ds:DATE>
+    <ds:DATE>2017-11-09</ds:DATE>
+    <ds:DATE>2016-01-17</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</ds:WDF2>
+    <ds:DATE>2015-07-12</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.0</ds:TAVG>
+    <ds:DATE>2018-07-28</ds:DATE>
+    <ds:DATE>2014-10-26</ds:DATE>
+    <ds:DATE>2015-08-09</ds:DATE>
+    <ds:DATE>2014-07-11</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.44</ds:PRCP>
+    <ds:DATE>2013-10-24</ds:DATE>
+    <ds:DATE>2014-12-29</ds:DATE>
+    <ds:DATE>2013-06-08</ds:DATE>
+    <ds:DATE>2017-10-21</ds:DATE>
+    <ds:DATE>2013-05-22</ds:DATE>
+    <ds:DATE>2014-05-14</ds:DATE>
+    <ds:DATE>2012-09-05</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.92</ds:AWND>
+    <ds:DATE>2015-06-09</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.0</ds:TAVG>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.01</ds:AWND>
+    <ds:DATE>2017-08-24</ds:DATE>
+    <ds:DATE>2014-09-21</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.0</ds:TAVG>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.7</ds:SNOW>
+    <ds:WT17 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT17>
+    <ds:DATE>2014-10-15</ds:DATE>
+    <ds:DATE>2014-07-14</ds:DATE>
+    <ds:DATE>2012-12-02</ds:DATE>
+    <ds:DATE>2015-09-14</ds:DATE>
+    <ds:DATE>2016-05-06</ds:DATE>
+    <ds:DATE>2015-09-29</ds:DATE>
+    <ds:DATE>2013-07-07</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.9</ds:WSF5>
+    <ds:DATE>2017-08-20</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">79.0</ds:TAVG>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.3</ds:AWND>
+    <ds:DATE>2018-03-05</ds:DATE>
+    <ds:DATE>2013-06-05</ds:DATE>
+    <ds:DATE>2014-06-02</ds:DATE>
+    <ds:DATE>2017-10-28</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.6</ds:SNOW>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-8</ds:TMIN>
+    <ds:DATE>2017-10-31</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ds:TMIN>
+    <ds:DATE>2012-01-30</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.37</ds:PRCP>
+    <ds:DATE>2018-09-16</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</ds:SNOW>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">150.0</ds:WDF5>
+    <ds:WT18 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT18>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.0</ds:WDF5>
+    <ds:DATE>2018-07-02</ds:DATE>
+    <ds:DATE>2015-10-02</ds:DATE>
+    <ds:DATE>2018-12-15</ds:DATE>
+    <ds:DATE>2017-03-19</ds:DATE>
+    <ds:DATE>2012-05-06</ds:DATE>
+    <ds:DATE>2013-04-23</ds:DATE>
+    <ds:DATE>2014-01-06</ds:DATE>
+    <ds:DATE>2015-02-01</ds:DATE>
+    <ds:DATE>2014-09-28</ds:DATE>
+    <ds:DATE>2013-12-15</ds:DATE>
+    <ds:DATE>2018-12-03</ds:DATE>
+    <ds:DATE>2018-08-02</ds:DATE>
+    <ds:DATE>2014-10-21</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.08</ds:AWND>
+    <ds:DATE>2013-12-16</ds:DATE>
+    <ds:DATE>2013-03-14</ds:DATE>
+    <ds:DATE>2013-01-12</ds:DATE>
+    <ds:DATE>2012-12-27</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.0</ds:WSF2>
+    <ds:DATE>2015-12-25</ds:DATE>
+    <ds:DATE>2015-08-27</ds:DATE>
+    <ds:DATE>2015-01-29</ds:DATE>
+    <ds:DATE>2016-07-31</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ds:WDF2>
+    <ds:DATE>2016-10-09</ds:DATE>
+    <ds:DATE>2013-02-03</ds:DATE>
+    <ds:DATE>2018-02-04</ds:DATE>
+    <ds:DATE>2018-10-23</ds:DATE>
+    <ds:DATE>2016-02-20</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">80.0</ds:TAVG>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.2</ds:SNOW>
+    <ds:DATE>2014-08-04</ds:DATE>
+    <ds:DATE>2013-07-09</ds:DATE>
+    <ds:DATE>2013-09-26</ds:DATE>
+    <ds:DATE>2018-05-12</ds:DATE>
+    <ds:DATE>2015-03-20</ds:DATE>
+    <ds:DATE>2017-03-14</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.0</ds:TAVG>
+    <ds:DATE>2013-04-04</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1225.0</ds:PGTM>
+    <ds:DATE>2015-10-31</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ds:TMIN>
+    <ds:DATE>2017-05-04</ds:DATE>
+    <ds:DATE>2013-07-08</ds:DATE>
+    <ds:DATE>2013-09-29</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-9</ds:TMIN>
+    <ds:DATE>2012-05-29</ds:DATE>
+    <ds:DATE>2017-12-06</ds:DATE>
+    <ds:DATE>2014-05-20</ds:DATE>
+    <ds:DATE>2012-04-01</ds:DATE>
+    <ds:DATE>2014-11-19</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ds:TMAX>
+    <ds:DATE>2014-06-08</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.22</ds:AWND>
+    <ds:DATE>2018-05-29</ds:DATE>
+    <ds:DATE>2018-11-25</ds:DATE>
+    <ds:DATE>2012-02-15</ds:DATE>
+    <ds:DATE>2015-12-09</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</ds:TMAX>
+    <ds:DATE>2018-12-02</ds:DATE>
+    <ds:DATE>2012-12-14</ds:DATE>
+    <ds:DATE>2014-06-01</ds:DATE>
+    <ds:DATE>2015-07-27</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ds:AWND>
+    <ds:DATE>2016-12-02</ds:DATE>
+    <ds:DATE>2012-05-26</ds:DATE>
+    <ds:DATE>2017-07-31</ds:DATE>
+    <ds:DATE>2016-03-21</ds:DATE>
+    <ds:DATE>2018-01-15</ds:DATE>
+    <ds:DATE>2014-09-17</ds:DATE>
+    <ds:DATE>2012-01-17</ds:DATE>
+    <ds:DATE>2012-07-30</ds:DATE>
+    <ds:DATE>2017-12-29</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.05</ds:PRCP>
+    <ds:DATE>2013-11-05</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.59</ds:PRCP>
+    <ds:DATE>2017-02-13</ds:DATE>
+    <ds:DATE>2014-04-03</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3</ds:SNOW>
+    <ds:DATE>2018-06-03</ds:DATE>
+    <ds:DATE>2013-12-24</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.0</ds:TAVG>
+    <ds:DATE>2014-04-18</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</ds:TMIN>
+    <ds:DATE>2012-11-07</ds:DATE>
+    <ds:DATE>2016-09-20</ds:DATE>
+    <ds:DATE>2014-02-23</ds:DATE>
+    <ds:DATE>2017-01-27</ds:DATE>
+    <ds:DATE>2017-01-05</ds:DATE>
+    <ds:DATE>2014-12-10</ds:DATE>
+    <ds:DATE>2015-06-27</ds:DATE>
+    <ds:DATE>2016-03-23</ds:DATE>
+    <ds:DATE>2018-06-10</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</ds:WDF2>
+    <ds:DATE>2016-01-22</ds:DATE>
+    <ds:DATE>2012-06-10</ds:DATE>
+    <ds:DATE>2013-10-30</ds:DATE>
+    <ds:DATE>2017-05-12</ds:DATE>
+    <ds:DATE>2017-11-08</ds:DATE>
+    <ds:DATE>2014-06-24</ds:DATE>
+    <ds:DATE>2014-07-09</ds:DATE>
+    <ds:DATE>2018-07-25</ds:DATE>
+    <ds:DATE>2013-05-14</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.3</ds:SNOW>
+    <ds:DATE>2017-02-20</ds:DATE>
+    <ds:DATE>2015-05-23</ds:DATE>
+    <ds:DATE>2017-03-07</ds:DATE>
+    <ds:DATE>2018-09-09</ds:DATE>
+    <ds:DATE>2012-11-21</ds:DATE>
+    <ds:DATE>2015-03-05</ds:DATE>
+    <ds:DATE>2015-09-16</ds:DATE>
+    <ds:DATE>2012-08-15</ds:DATE>
+    <ds:DATE>2015-01-31</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1636.0</ds:PGTM>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.2</ds:AWND>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">110.0</ds:WDF5>
+    <ds:DATE>2016-10-17</ds:DATE>
+    <ds:DATE>2017-02-24</ds:DATE>
+    <ds:DATE>2015-04-19</ds:DATE>
+    <ds:DATE>2015-06-08</ds:DATE>
+    <ds:DATE>2012-02-03</ds:DATE>
+    <ds:DATE>2016-07-01</ds:DATE>
+    <ds:DATE>2012-09-25</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">57.0</ds:WSF5>
+    <ds:DATE>2012-07-23</ds:DATE>
+    <ds:DATE>2015-10-17</ds:DATE>
+    <ds:DATE>2014-05-25</ds:DATE>
+    <ds:DATE>2018-06-22</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.0</ds:TAVG>
+    <ds:DATE>2017-03-21</ds:DATE>
+    <ds:DATE>2018-06-05</ds:DATE>
+    <ds:DATE>2016-10-23</ds:DATE>
+    <ds:DATE>2014-08-08</ds:DATE>
+    <ds:DATE>2013-11-24</ds:DATE>
+    <ds:DATE>2012-11-24</ds:DATE>
+    <ds:DATE>2014-12-31</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">170.0</ds:WDF5>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.23</ds:PRCP>
+    <ds:DATE>2017-09-13</ds:DATE>
+    <ds:DATE>2018-01-21</ds:DATE>
+    <ds:DATE>2016-08-29</ds:DATE>
+    <ds:DATE>2018-01-17</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.9</ds:WSF5>
+    <ds:DATE>2014-11-06</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.0</ds:TAVG>
+    <ds:DATE>2015-08-13</ds:DATE>
+    <ds:DATE>2017-04-24</ds:DATE>
+    <ds:DATE>2018-08-24</ds:DATE>
+    <ds:DATE>2018-04-21</ds:DATE>
+    <ds:DATE>2016-11-17</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.67</ds:AWND>
+    <ds:DATE>2014-12-04</ds:DATE>
+    <ds:DATE>2015-12-01</ds:DATE>
+    <ds:DATE>2015-01-08</ds:DATE>
+    <ds:DATE>2014-04-04</ds:DATE>
+    <ds:DATE>2017-05-03</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ds:PRCP>
+    <ds:DATE>2017-08-02</ds:DATE>
+    <ds:DATE>2018-03-26</ds:DATE>
+    <ds:DATE>2018-06-17</ds:DATE>
+    <ds:DATE>2015-12-30</ds:DATE>
+    <ds:DATE>2015-11-10</ds:DATE>
+    <ds:DATE>2017-02-12</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ds:TMAX>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.4</ds:PRCP>
+    <ds:DATE>2015-09-13</ds:DATE>
+    <ds:DATE>2012-12-04</ds:DATE>
+    <ds:DATE>2015-12-26</ds:DATE>
+    <ds:DATE>2013-05-30</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ds:TMIN>
+    <ds:DATE>2012-01-24</ds:DATE>
+    <ds:DATE>2015-11-14</ds:DATE>
+    <ds:DATE>2012-02-05</ds:DATE>
+    <ds:DATE>2015-01-17</ds:DATE>
+    <ds:DATE>2013-03-18</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.26</ds:AWND>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.1</ds:WSF5>
+    <ds:DATE>2012-09-14</ds:DATE>
+    <ds:DATE>2017-01-26</ds:DATE>
+    <ds:DATE>2017-03-30</ds:DATE>
+    <ds:DATE>2013-08-01</ds:DATE>
+    <ds:DATE>2015-09-11</ds:DATE>
+    <ds:DATE>2017-12-03</ds:DATE>
+    <ds:DATE>2015-08-10</ds:DATE>
+    <ds:DATE>2017-08-11</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1526.0</ds:PGTM>
+    <ds:DATE>2018-07-01</ds:DATE>
+    <ds:DATE>2017-12-30</ds:DATE>
+    <ds:DATE>2018-11-24</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.0</ds:TAVG>
+    <ds:DATE>2016-04-15</ds:DATE>
+    <ds:DATE>2013-08-25</ds:DATE>
+    <ds:DATE>2014-07-12</ds:DATE>
+    <ds:DATE>2016-12-01</ds:DATE>
+    <ds:DATE>2012-10-01</ds:DATE>
+    <ds:DATE>2013-02-28</ds:DATE>
+    <ds:DATE>2015-10-12</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.29</ds:PRCP>
+    <ds:DATE>2013-08-03</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.0</ds:TAVG>
+    <ds:DATE>2016-11-27</ds:DATE>
+    <ds:DATE>2014-12-18</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.5</ds:SNOW>
+    <ds:DATE>2016-09-21</ds:DATE>
+    <ds:DATE>2013-12-28</ds:DATE>
+    <ds:DATE>2012-11-20</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.9</ds:WSF5>
+    <ds:DATE>2017-08-08</ds:DATE>
+    <ds:DATE>2014-08-28</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.53</ds:PRCP>
+    <ds:DATE>2015-06-14</ds:DATE>
+    <ds:DATE>2018-10-30</ds:DATE>
+    <ds:DATE>2013-05-02</ds:DATE>
+    <ds:DATE>2012-01-03</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</ds:TMAX>
+    <ds:DATE>2017-02-04</ds:DATE>
+    <ds:DATE>2017-09-14</ds:DATE>
+    <ds:DATE>2012-11-05</ds:DATE>
+    <ds:DATE>2018-12-29</ds:DATE>
+    <ds:DATE>2015-03-03</ds:DATE>
+    <ds:DATE>2013-02-14</ds:DATE>
+    <ds:DATE>2015-01-02</ds:DATE>
+    <ds:DATE>2012-08-11</ds:DATE>
+    <ds:DATE>2012-08-18</ds:DATE>
+    <ds:DATE>2014-11-25</ds:DATE>
+    <ds:DATE>2016-01-04</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.93</ds:PRCP>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ds:TMIN>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.26</ds:PRCP>
+    <ds:DATE>2015-02-04</ds:DATE>
+    <ds:DATE>2017-07-19</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.33</ds:PRCP>
+    <ds:DATE>2014-05-06</ds:DATE>
+    <ds:DATE>2018-07-17</ds:DATE>
+    <ds:DATE>2014-01-28</ds:DATE>
+    <ds:DATE>2018-10-02</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ds:TMIN>
+    <ds:DATE>2018-12-30</ds:DATE>
+    <ds:DATE>2012-09-03</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</ds:WDF2>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.0</ds:WSF2>
+    <ds:DATE>2013-08-31</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</ds:TMIN>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.3</ds:SNOW>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">290.0</ds:WDF5>
+    <ds:DATE>2017-01-06</ds:DATE>
+    <ds:DATE>2018-11-03</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.37</ds:PRCP>
+    <ds:DATE>2012-12-16</ds:DATE>
+    <ds:DATE>2015-08-16</ds:DATE>
+    <ds:DATE>2015-11-07</ds:DATE>
+    <ds:DATE>2013-04-15</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.12</ds:AWND>
+    <ds:DATE>2014-05-24</ds:DATE>
+    <ds:DATE>2016-09-26</ds:DATE>
+    <ds:DATE>2015-11-22</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</ds:TMAX>
+    <ds:DATE>2012-12-26</ds:DATE>
+    <ds:DATE>2013-05-07</ds:DATE>
+    <ds:DATE>2015-02-20</ds:DATE>
+    <ds:DATE>2015-11-25</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</ds:WDF2>
+    <ds:DATE>2016-06-12</ds:DATE>
+    <ds:DATE>2018-12-16</ds:DATE>
+    <ds:DATE>2018-07-16</ds:DATE>
+    <ds:DATE>2018-10-15</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">945.0</ds:PGTM>
+    <ds:DATE>2018-01-28</ds:DATE>
+    <ds:DATE>2013-07-25</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</ds:WDF2>
+    <ds:DATE>2015-12-15</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</ds:WDF2>
+    <ds:DATE>2017-03-31</ds:DATE>
+    <ds:DATE>2017-05-17</ds:DATE>
+    <ds:DATE>2013-06-23</ds:DATE>
+    <ds:DATE>2013-05-21</ds:DATE>
+    <ds:DATE>2017-03-13</ds:DATE>
+    <ds:DATE>2016-01-11</ds:DATE>
+    <ds:DATE>2012-03-28</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">84.0</ds:TAVG>
+    <ds:DATE>2014-10-23</ds:DATE>
+    <ds:DATE>2016-12-15</ds:DATE>
+    <ds:DATE>2018-12-17</ds:DATE>
+    <ds:DATE>2012-02-26</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</ds:WDF2>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.13</ds:PRCP>
+    <ds:DATE>2015-06-17</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.84</ds:PRCP>
+    <ds:WT02 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT02>
+    <ds:DATE>2015-10-09</ds:DATE>
+    <ds:DATE>2016-07-10</ds:DATE>
+    <ds:DATE>2016-04-08</ds:DATE>
+    <ds:DATE>2013-06-22</ds:DATE>
+    <ds:DATE>2014-03-22</ds:DATE>
+    <ds:NAME>HARTFORD BRADLEY INTERNATIONAL AIRPORT, CT US</ds:NAME>
+    <ds:DATE>2017-09-30</ds:DATE>
+    <ds:DATE>2018-10-27</ds:DATE>
+    <ds:DATE>2018-01-02</ds:DATE>
+    <ds:DATE>2017-03-08</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</ds:TMAX>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.74</ds:PRCP>
+    <ds:DATE>2017-01-16</ds:DATE>
+    <ds:DATE>2014-10-12</ds:DATE>
+    <ds:WT16 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT16>
+    <ds:DATE>2015-09-12</ds:DATE>
+    <ds:DATE>2013-01-18</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ds:TMAX>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:SNOW>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.8</ds:SNWD>
+    <ds:DATE>2017-10-25</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.11</ds:PRCP>
+    <ds:DATE>2018-02-12</ds:DATE>
+    <ds:DATE>2018-02-14</ds:DATE>
+    <ds:DATE>2014-11-11</ds:DATE>
+    <ds:DATE>2014-08-25</ds:DATE>
+    <ds:DATE>2015-06-11</ds:DATE>
+    <ds:DATE>2017-10-12</ds:DATE>
+    <ds:DATE>2015-10-20</ds:DATE>
+    <ds:DATE>2017-11-04</ds:DATE>
+    <ds:DATE>2017-06-18</ds:DATE>
+    <ds:DATE>2018-10-29</ds:DATE>
+    <ds:DATE>2012-03-13</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</ds:PRCP>
+    <ds:DATE>2018-11-04</ds:DATE>
+    <ds:DATE>2016-06-25</ds:DATE>
+    <ds:DATE>2014-04-26</ds:DATE>
+    <ds:DATE>2016-08-11</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.0</ds:WDF5>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ds:TMIN>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.36</ds:AWND>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-3</ds:TMIN>
+    <ds:DATE>2017-10-18</ds:DATE>
+    <ds:DATE>2014-11-27</ds:DATE>
+    <ds:DATE>2016-03-16</ds:DATE>
+    <ds:DATE>2013-03-13</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.23</ds:PRCP>
+    <ds:DATE>2012-08-09</ds:DATE>
+    <ds:DATE>2013-03-17</ds:DATE>
+    <ds:DATE>2012-09-12</ds:DATE>
+    <ds:DATE>2012-05-22</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</ds:TMIN>
+    <ds:DATE>2014-08-15</ds:DATE>
+    <ds:DATE>2018-05-26</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1229.0</ds:PGTM>
+    <ds:DATE>2013-03-06</ds:DATE>
+    <ds:DATE>2013-10-15</ds:DATE>
+    <ds:DATE>2012-03-02</ds:DATE>
+    <ds:DATE>2015-09-30</ds:DATE>
+    <ds:DATE>2016-02-16</ds:DATE>
+    <ds:DATE>2016-01-19</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ds:TMIN>
+    <ds:DATE>2013-03-31</ds:DATE>
+    <ds:DATE>2018-01-20</ds:DATE>
+    <ds:DATE>2012-11-06</ds:DATE>
+    <ds:DATE>2015-04-21</ds:DATE>
+    <ds:DATE>2016-07-29</ds:DATE>
+    <ds:DATE>2012-05-28</ds:DATE>
+    <ds:DATE>2013-03-11</ds:DATE>
+    <ds:DATE>2013-05-12</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.22</ds:PRCP>
+    <ds:DATE>2017-08-04</ds:DATE>
+    <ds:DATE>2017-05-21</ds:DATE>
+    <ds:DATE>2012-02-28</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</ds:TMIN>
+    <ds:DATE>2016-12-03</ds:DATE>
+    <ds:DATE>2016-07-19</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.42</ds:PRCP>
+    <ds:DATE>2018-12-24</ds:DATE>
+    <ds:DATE>2016-08-23</ds:DATE>
+    <ds:DATE>2013-07-28</ds:DATE>
+    <ds:DATE>2014-05-31</ds:DATE>
+    <ds:DATE>2014-07-31</ds:DATE>
+    <ds:DATE>2012-02-13</ds:DATE>
+    <ds:DATE>2016-10-28</ds:DATE>
+    <ds:DATE>2017-02-19</ds:DATE>
+    <ds:DATE>2014-04-10</ds:DATE>
+    <ds:DATE>2017-01-08</ds:DATE>
+    <ds:DATE>2012-08-17</ds:DATE>
+    <ds:WT01 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT01>
+    <ds:DATE>2016-02-29</ds:DATE>
+    <ds:DATE>2017-01-25</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ds:TMAX>
+    <ds:DATE>2018-01-14</ds:DATE>
+    <ds:DATE>2013-06-14</ds:DATE>
+    <ds:DATE>2013-10-25</ds:DATE>
+    <ds:DATE>2016-04-22</ds:DATE>
+    <ds:DATE>2016-05-05</ds:DATE>
+    <ds:DATE>2012-03-06</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</ds:SNOW>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</ds:TMIN>
+    <ds:DATE>2015-07-20</ds:DATE>
+    <ds:DATE>2012-10-07</ds:DATE>
+    <ds:DATE>2015-01-01</ds:DATE>
+    <ds:DATE>2015-07-29</ds:DATE>
+    <ds:DATE>2012-05-05</ds:DATE>
+    <ds:DATE>2014-11-22</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">310.0</ds:WDF5>
+    <ds:DATE>2012-04-09</ds:DATE>
+    <ds:FMTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9999.0</ds:FMTM>
+    <ds:DATE>2018-02-03</ds:DATE>
+    <ds:DATE>2012-03-11</ds:DATE>
+    <ds:DATE>2013-12-23</ds:DATE>
+    <ds:DATE>2017-09-21</ds:DATE>
+    <ds:DATE>2018-11-09</ds:DATE>
+    <ds:DATE>2012-07-14</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ds:TMIN>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.1</ds:SNWD>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ds:TMIN>
+    <ds:DATE>2012-09-08</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ds:TMAX>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.1</ds:WSF5>
+    <ds:DATE>2013-11-22</ds:DATE>
+    <ds:DATE>2015-08-02</ds:DATE>
+    <ds:DATE>2016-09-01</ds:DATE>
+    <ds:DATE>2016-03-01</ds:DATE>
+    <ds:DATE>2012-05-21</ds:DATE>
+    <ds:DATE>2012-01-06</ds:DATE>
+    <ds:DATE>2017-07-05</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.0</ds:WSF5>
+    <ds:DATE>2014-06-17</ds:DATE>
+    <ds:DATE>2015-06-13</ds:DATE>
+    <ds:DATE>2012-08-23</ds:DATE>
+    <ds:DATE>2012-07-10</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ds:TMIN>
+    <ds:DATE>2018-03-08</ds:DATE>
+    <ds:DATE>2015-10-25</ds:DATE>
+    <ds:DATE>2014-08-29</ds:DATE>
+    <ds:DATE>2014-04-27</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ds:TMAX>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1305.0</ds:PGTM>
+    <ds:DATE>2015-12-02</ds:DATE>
+    <ds:DATE>2015-11-19</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</ds:TMAX>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">240.0</ds:WDF5>
+    <ds:DATE>2016-02-08</ds:DATE>
+    <ds:DATE>2018-09-15</ds:DATE>
+    <ds:DATE>2017-06-11</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ds:TMAX>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.0</ds:SNWD>
+    <ds:DATE>2015-07-14</ds:DATE>
+    <ds:DATE>2012-08-02</ds:DATE>
+    <ds:DATE>2016-10-08</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.0</ds:PGTM>
+    <ds:DATE>2014-11-26</ds:DATE>
+    <ds:DATE>2017-05-07</ds:DATE>
+    <ds:DATE>2013-07-29</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.91</ds:AWND>
+    <ds:DATE>2012-12-23</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ds:TMIN>
+    <ds:DATE>2017-08-12</ds:DATE>
+    <ds:DATE>2018-12-19</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1907.0</ds:PGTM>
+    <ds:DATE>2017-04-02</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.0</ds:TAVG>
+    <ds:DATE>2018-12-20</ds:DATE>
+    <ds:DATE>2012-04-10</ds:DATE>
+    <ds:DATE>2012-01-25</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ds:TMAX>
+    <ds:DATE>2012-07-12</ds:DATE>
+    <ds:DATE>2012-09-16</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.0</ds:TAVG>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.36</ds:PRCP>
+    <ds:DATE>2013-11-03</ds:DATE>
+    <ds:DATE>2018-07-07</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">63.1</ds:WSF5>
+    <ds:DATE>2018-10-18</ds:DATE>
+    <ds:DATE>2017-07-02</ds:DATE>
+    <ds:DATE>2017-09-17</ds:DATE>
+    <ds:DATE>2018-10-22</ds:DATE>
+    <ds:DATE>2013-06-01</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</ds:TMIN>
+    <ds:DATE>2014-09-01</ds:DATE>
+    <ds:DATE>2016-08-17</ds:DATE>
+    <ds:DATE>2017-01-15</ds:DATE>
+    <ds:DATE>2013-03-29</ds:DATE>
+    <ds:WT04 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT04>
+    <ds:DATE>2013-10-02</ds:DATE>
+    <ds:DATE>2013-11-12</ds:DATE>
+    <ds:DATE>2014-11-03</ds:DATE>
+    <ds:DATE>2014-07-10</ds:DATE>
+    <ds:DATE>2014-09-13</ds:DATE>
+    <ds:DATE>2017-06-28</ds:DATE>
+    <ds:DATE>2015-03-15</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.9</ds:SNWD>
+    <ds:WT03 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT03>
+    <ds:DATE>2013-11-25</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</ds:TMAX>
+    <ds:DATE>2015-03-31</ds:DATE>
+    <ds:DATE>2013-07-13</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">82.0</ds:TAVG>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</ds:TMIN>
+    <ds:DATE>2013-10-27</ds:DATE>
+    <ds:DATE>2015-03-14</ds:DATE>
+    <ds:DATE>2014-04-19</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.97</ds:PRCP>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.1</ds:WSF5>
+    <ds:DATE>2018-06-14</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.16</ds:PRCP>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.79</ds:AWND>
+    <ds:DATE>2018-02-21</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.92</ds:PRCP>
+    <ds:DATE>2015-02-23</ds:DATE>
+    <ds:DATE>2015-11-02</ds:DATE>
+    <ds:DATE>2018-04-23</ds:DATE>
+    <ds:DATE>2012-07-25</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.32</ds:PRCP>
+    <ds:DATE>2016-04-17</ds:DATE>
+    <ds:DATE>2012-04-07</ds:DATE>
+    <ds:DATE>2018-04-12</ds:DATE>
+    <ds:DATE>2012-09-04</ds:DATE>
+    <ds:DATE>2012-07-09</ds:DATE>
+    <ds:DATE>2014-01-31</ds:DATE>
+    <ds:DATE>2015-04-27</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-6</ds:TMIN>
+    <ds:DATE>2015-03-18</ds:DATE>
+    <ds:DATE>2017-08-01</ds:DATE>
+    <ds:DATE>2013-04-10</ds:DATE>
+    <ds:DATE>2018-07-18</ds:DATE>
+    <ds:DATE>2013-11-01</ds:DATE>
+    <ds:DATE>2018-09-10</ds:DATE>
+    <ds:DATE>2016-08-07</ds:DATE>
+    <ds:DATE>2013-04-26</ds:DATE>
+    <ds:DATE>2018-10-26</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">83.0</ds:TAVG>
+    <ds:DATE>2018-01-24</ds:DATE>
+    <ds:DATE>2013-11-30</ds:DATE>
+    <ds:DATE>2015-08-21</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</ds:TMAX>
+    <ds:DATE>2012-03-21</ds:DATE>
+    <ds:DATE>2013-09-24</ds:DATE>
+    <ds:DATE>2017-04-22</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.0</ds:SNOW>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ds:TMAX>
+    <ds:DATE>2018-04-14</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.0</ds:TAVG>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">210.0</ds:WDF5>
+    <ds:DATE>2014-07-30</ds:DATE>
+    <ds:DATE>2017-04-12</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</ds:TMAX>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</ds:WDF2>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</ds:TMIN>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.1</ds:SNWD>
+    <ds:DATE>2017-04-15</ds:DATE>
+    <ds:DATE>2012-06-04</ds:DATE>
+    <ds:DATE>2016-10-13</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ds:WDF2>
+    <ds:DATE>2013-05-27</ds:DATE>
+    <ds:DATE>2014-01-15</ds:DATE>
+    <ds:DATE>2013-02-15</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.0</ds:SNWD>
+    <ds:WT09 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT09>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</ds:TMIN>
+    <ds:DATE>2018-08-26</ds:DATE>
+    <ds:DATE>2018-08-18</ds:DATE>
+    <ds:DATE>2018-05-23</ds:DATE>
+    <ds:DATE>2014-10-11</ds:DATE>
+    <ds:DATE>2012-07-24</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.8</ds:SNWD>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ds:TMIN>
+    <ds:DATE>2014-02-06</ds:DATE>
+    <ds:DATE>2013-08-23</ds:DATE>
+    <ds:DATE>2016-06-23</ds:DATE>
+    <ds:DATE>2014-05-23</ds:DATE>
+    <ds:DATE>2015-03-06</ds:DATE>
+    <ds:DATE>2016-11-30</ds:DATE>
+    <ds:DATE>2017-08-25</ds:DATE>
+    <ds:DATE>2014-01-09</ds:DATE>
+    <ds:DATE>2017-09-25</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.0</ds:TAVG>
+    <ds:DATE>2015-04-13</ds:DATE>
+    <ds:DATE>2014-08-13</ds:DATE>
+    <ds:DATE>2017-07-25</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.22</ds:PRCP>
+    <ds:DATE>2016-12-16</ds:DATE>
+    <ds:DATE>2012-11-02</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">85.0</ds:TAVG>
+    <ds:DATE>2015-08-06</ds:DATE>
+    <ds:DATE>2015-09-03</ds:DATE>
+    <ds:DATE>2016-03-27</ds:DATE>
+    <ds:DATE>2014-08-23</ds:DATE>
+    <ds:DATE>2015-08-11</ds:DATE>
+    <ds:DATE>2016-06-18</ds:DATE>
+    <ds:DATE>2016-08-21</ds:DATE>
+    <ds:DATE>2013-11-06</ds:DATE>
+    <ds:DATE>2014-10-03</ds:DATE>
+    <ds:DATE>2017-04-01</ds:DATE>
+    <ds:DATE>2018-11-20</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.3</ds:SNOW>
+    <ds:DATE>2016-02-02</ds:DATE>
+    <ds:DATE>2017-09-02</ds:DATE>
+    <ds:DATE>2018-04-16</ds:DATE>
+    <ds:DATE>2017-09-26</ds:DATE>
+    <ds:DATE>2016-02-25</ds:DATE>
+    <ds:DATE>2016-01-29</ds:DATE>
+    <ds:DATE>2016-10-12</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.0</ds:PGTM>
+    <ds:DATE>2013-03-09</ds:DATE>
+    <ds:DATE>2014-01-25</ds:DATE>
+    <ds:DATE>2015-05-02</ds:DATE>
+    <ds:DATE>2018-10-03</ds:DATE>
+    <ds:DATE>2016-11-16</ds:DATE>
+    <ds:DATE>2015-12-04</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.1</ds:WSF5>
+    <ds:DATE>2013-05-09</ds:DATE>
+    <ds:DATE>2013-05-05</ds:DATE>
+    <ds:DATE>2017-03-26</ds:DATE>
+    <ds:DATE>2012-02-07</ds:DATE>
+    <ds:DATE>2016-04-30</ds:DATE>
+    <ds:DATE>2015-05-20</ds:DATE>
+    <ds:DATE>2016-12-23</ds:DATE>
+    <ds:DATE>2017-11-10</ds:DATE>
+    <ds:DATE>2014-02-02</ds:DATE>
+    <ds:DATE>2015-06-05</ds:DATE>
+    <ds:DATE>2014-01-22</ds:DATE>
+    <ds:DATE>2015-09-25</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">320.0</ds:WDF5>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ds:TMIN>
+    <ds:DATE>2013-11-14</ds:DATE>
+    <ds:DATE>2017-05-13</ds:DATE>
+    <ds:DATE>2018-10-24</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</ds:TMAX>
+    <ds:DATE>2015-06-19</ds:DATE>
+    <ds:DATE>2015-12-24</ds:DATE>
+    <ds:DATE>2012-08-14</ds:DATE>
+    <ds:DATE>2014-09-29</ds:DATE>
+    <ds:DATE>2015-11-28</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.1</ds:SNOW>
+    <ds:DATE>2016-04-18</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.0</ds:TAVG>
+    <ds:DATE>2017-09-10</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-1</ds:TMIN>
+    <ds:DATE>2017-09-03</ds:DATE>
+    <ds:DATE>2015-02-09</ds:DATE>
+    <ds:DATE>2016-08-18</ds:DATE>
+    <ds:DATE>2014-12-11</ds:DATE>
+    <ds:DATE>2014-12-16</ds:DATE>
+    <ds:DATE>2013-03-05</ds:DATE>
+    <ds:DATE>2016-03-19</ds:DATE>
+    <ds:DATE>2018-05-20</ds:DATE>
+    <ds:DATE>2012-07-22</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.1</ds:PRCP>
+    <ds:DATE>2013-09-21</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.0</ds:SNWD>
+    <ds:DATE>2015-07-03</ds:DATE>
+    <ds:DATE>2014-07-20</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</ds:TMAX>
+    <ds:DATE>2015-11-18</ds:DATE>
+    <ds:DATE>2017-11-23</ds:DATE>
+    <ds:DATE>2013-12-20</ds:DATE>
+    <ds:DATE>2016-04-03</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-4</ds:TMIN>
+    <ds:DATE>2017-03-09</ds:DATE>
+    <ds:DATE>2018-11-12</ds:DATE>
+    <ds:DATE>2013-09-19</ds:DATE>
+    <ds:DATE>2017-06-12</ds:DATE>
+    <ds:DATE>2017-01-09</ds:DATE>
+    <ds:DATE>2017-01-24</ds:DATE>
+    <ds:DATE>2016-03-14</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ds:TMIN>
+    <ds:DATE>2015-03-21</ds:DATE>
+    <ds:DATE>2012-09-27</ds:DATE>
+    <ds:DATE>2012-11-15</ds:DATE>
+    <ds:DATE>2016-04-04</ds:DATE>
+    <ds:DATE>2014-09-12</ds:DATE>
+    <ds:DATE>2014-02-15</ds:DATE>
+    <ds:DATE>2017-10-23</ds:DATE>
+    <ds:DATE>2018-12-11</ds:DATE>
+    <ds:DATE>2013-06-21</ds:DATE>
+    <ds:DATE>2013-02-01</ds:DATE>
+    <ds:DATE>2012-07-26</ds:DATE>
+    <ds:DATE>2016-01-09</ds:DATE>
+    <ds:DATE>2015-09-05</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4</ds:SNOW>
+    <ds:DATE>2014-07-23</ds:DATE>
+    <ds:DATE>2015-01-16</ds:DATE>
+    <ds:DATE>2012-10-16</ds:DATE>
+    <ds:DATE>2015-06-24</ds:DATE>
+    <ds:DATE>2017-04-29</ds:DATE>
+    <ds:DATE>2016-01-23</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.17</ds:AWND>
+    <ds:DATE>2014-03-16</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.1</ds:WSF2>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.41</ds:AWND>
+    <ds:DATE>2015-02-17</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ds:TMIN>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.0</ds:TAVG>
+    <ds:DATE>2012-12-18</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.6</ds:PRCP>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ds:SNOW>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</ds:WDF2>
+    <ds:DATE>2012-12-24</ds:DATE>
+    <ds:DATE>2018-09-01</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ds:TMAX>
+    <ds:DATE>2012-03-19</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ds:TMAX>
+    <ds:DATE>2013-02-18</ds:DATE>
+    <ds:DATE>2016-11-25</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ds:TMAX>
+    <ds:DATE>2014-11-17</ds:DATE>
+    <ds:DATE>2012-12-08</ds:DATE>
+    <ds:DATE>2013-09-02</ds:DATE>
+    <ds:DATE>2012-03-26</ds:DATE>
+    <ds:DATE>2016-01-03</ds:DATE>
+    <ds:DATE>2016-01-08</ds:DATE>
+    <ds:DATE>2012-04-18</ds:DATE>
+    <ds:DATE>2014-10-22</ds:DATE>
+    <ds:DATE>2014-07-03</ds:DATE>
+    <ds:DATE>2012-07-16</ds:DATE>
+    <ds:DATE>2013-10-08</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ds:TMIN>
+    <ds:DATE>2016-05-18</ds:DATE>
+    <ds:DATE>2016-09-25</ds:DATE>
+    <ds:DATE>2016-08-04</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.46</ds:AWND>
+    <ds:DATE>2014-07-04</ds:DATE>
+    <ds:DATE>2012-08-08</ds:DATE>
+    <ds:DATE>2018-11-19</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</ds:TMIN>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.18</ds:AWND>
+    <ds:DATE>2017-07-01</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.0</ds:TAVG>
+    <ds:DATE>2013-07-12</ds:DATE>
+    <ds:DATE>2013-01-11</ds:DATE>
+    <ds:DATE>2018-09-12</ds:DATE>
+    <ds:DATE>2015-01-07</ds:DATE>
+    <ds:DATE>2018-01-06</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</ds:TMAX>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.51</ds:AWND>
+    <ds:DATE>2013-10-12</ds:DATE>
+    <ds:DATE>2015-01-11</ds:DATE>
+    <ds:DATE>2013-07-15</ds:DATE>
+    <ds:DATE>2013-12-02</ds:DATE>
+    <ds:DATE>2015-07-31</ds:DATE>
+    <ds:DATE>2012-04-20</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.47</ds:AWND>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.9</ds:WSF2>
+    <ds:DATE>2015-11-27</ds:DATE>
+    <ds:DATE>2016-05-29</ds:DATE>
+    <ds:DATE>2015-02-12</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.18</ds:PRCP>
+    <ds:DATE>2012-02-18</ds:DATE>
+    <ds:DATE>2012-10-29</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">350.0</ds:WDF5>
+    <ds:DATE>2012-06-08</ds:DATE>
+    <ds:DATE>2017-06-05</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1321.0</ds:PGTM>
+    <ds:DATE>2014-11-18</ds:DATE>
+    <ds:DATE>2014-06-03</ds:DATE>
+    <ds:DATE>2015-05-06</ds:DATE>
+    <ds:DATE>2017-04-20</ds:DATE>
+    <ds:DATE>2017-06-21</ds:DATE>
+    <ds:DATE>2014-08-20</ds:DATE>
+    <ds:DATE>2018-06-23</ds:DATE>
+    <ds:DATE>2012-07-28</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.61</ds:PRCP>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.82</ds:AWND>
+    <ds:DATE>2012-03-23</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.97</ds:AWND>
+    <ds:DATE>2013-10-28</ds:DATE>
+    <ds:DATE>2015-04-30</ds:DATE>
+    <ds:DATE>2015-05-26</ds:DATE>
+    <ds:DATE>2012-05-04</ds:DATE>
+    <ds:DATE>2017-05-16</ds:DATE>
+    <ds:DATE>2015-05-27</ds:DATE>
+    <ds:DATE>2016-01-10</ds:DATE>
+    <ds:DATE>2018-01-01</ds:DATE>
+    <ds:DATE>2012-08-07</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.1</ds:SNOW>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ds:TMAX>
+    <ds:DATE>2014-12-14</ds:DATE>
+    <ds:DATE>2016-08-15</ds:DATE>
+    <ds:DATE>2013-02-27</ds:DATE>
+    <ds:DATE>2014-02-11</ds:DATE>
+    <ds:DATE>2018-03-20</ds:DATE>
+    <ds:DATE>2017-08-15</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.16</ds:AWND>
+    <ds:DATE>2013-04-19</ds:DATE>
+    <ds:DATE>2017-03-10</ds:DATE>
+    <ds:DATE>2016-12-05</ds:DATE>
+    <ds:DATE>2016-07-03</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.8</ds:SNOW>
+    <ds:DATE>2012-04-05</ds:DATE>
+    <ds:DATE>2015-01-30</ds:DATE>
+    <ds:DATE>2013-06-26</ds:DATE>
+    <ds:DATE>2015-10-01</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</ds:WDF2>
+    <ds:DATE>2016-08-06</ds:DATE>
+    <ds:DATE>2017-08-29</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</ds:WDF2>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.7</ds:SNOW>
+    <ds:DATE>2014-11-14</ds:DATE>
+    <ds:DATE>2016-10-27</ds:DATE>
+    <ds:DATE>2018-07-05</ds:DATE>
+    <ds:DATE>2014-10-05</ds:DATE>
+    <ds:DATE>2014-12-21</ds:DATE>
+    <ds:DATE>2016-06-02</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.91</ds:PRCP>
+    <ds:DATE>2017-01-18</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60.0</ds:TAVG>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.73</ds:PRCP>
+    <ds:DATE>2013-09-05</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</ds:TMIN>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.5</ds:AWND>
+    <ds:DATE>2012-01-07</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.38</ds:PRCP>
+    <ds:DATE>2016-03-26</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">140.0</ds:WDF5>
+    <ds:DATE>2016-02-17</ds:DATE>
+    <ds:DATE>2017-01-01</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.12</ds:PRCP>
+    <ds:DATE>2015-08-22</ds:DATE>
+    <ds:DATE>2013-11-02</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.0</ds:WSF2>
+    <ds:DATE>2012-04-06</ds:DATE>
+    <ds:DATE>2018-03-02</ds:DATE>
+    <ds:DATE>2015-11-04</ds:DATE>
+    <ds:DATE>2017-11-15</ds:DATE>
+    <ds:DATE>2012-05-30</ds:DATE>
+    <ds:DATE>2018-06-02</ds:DATE>
+    <ds:DATE>2016-02-22</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">456.0</ds:PGTM>
+    <ds:DATE>2014-09-19</ds:DATE>
+    <ds:DATE>2015-02-26</ds:DATE>
+    <ds:DATE>2016-09-13</ds:DATE>
+    <ds:DATE>2014-04-15</ds:DATE>
+    <ds:DATE>2012-10-30</ds:DATE>
+    <ds:DATE>2018-01-11</ds:DATE>
+    <ds:DATE>2013-12-29</ds:DATE>
+    <ds:DATE>2018-06-19</ds:DATE>
+    <ds:DATE>2014-07-18</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.86</ds:AWND>
+    <ds:DATE>2017-01-17</ds:DATE>
+    <ds:DATE>2016-04-25</ds:DATE>
+    <ds:DATE>2013-04-02</ds:DATE>
+    <ds:DATE>2018-12-26</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">180.0</ds:WDF5>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.49</ds:AWND>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120.0</ds:WDF5>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.7</ds:PRCP>
+    <ds:DATE>2016-02-07</ds:DATE>
+    <ds:DATE>2015-03-28</ds:DATE>
+    <ds:DATE>2014-10-19</ds:DATE>
+    <ds:DATE>2018-02-13</ds:DATE>
+    <ds:DATE>2015-08-23</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.0</ds:TAVG>
+    <ds:DATE>2014-07-07</ds:DATE>
+    <ds:DATE>2018-08-13</ds:DATE>
+    <ds:DATE>2015-05-24</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ds:TMIN>
+    <ds:DATE>2017-06-03</ds:DATE>
+    <ds:DATE>2015-04-25</ds:DATE>
+    <ds:DATE>2013-02-10</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ds:TMAX>
+    <ds:DATE>2012-06-16</ds:DATE>
+    <ds:DATE>2015-05-12</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.0</ds:WSF5>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.84</ds:PRCP>
+    <ds:DATE>2012-03-15</ds:DATE>
+    <ds:DATE>2013-08-17</ds:DATE>
+    <ds:DATE>2017-04-26</ds:DATE>
+    <ds:DATE>2015-04-18</ds:DATE>
+    <ds:DATE>2014-12-23</ds:DATE>
+    <ds:DATE>2014-11-08</ds:DATE>
+    <ds:DATE>2015-05-09</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.0</ds:TAVG>
+    <ds:DATE>2014-04-07</ds:DATE>
+    <ds:DATE>2016-02-24</ds:DATE>
+    <ds:DATE>2017-07-07</ds:DATE>
+    <ds:DATE>2014-11-21</ds:DATE>
+    <ds:DATE>2016-09-19</ds:DATE>
+    <ds:DATE>2014-05-16</ds:DATE>
+    <ds:DATE>2018-07-24</ds:DATE>
+    <ds:DATE>2012-02-04</ds:DATE>
+    <ds:DATE>2013-05-10</ds:DATE>
+    <ds:DATE>2017-01-23</ds:DATE>
+    <ds:DATE>2018-02-17</ds:DATE>
+    <ds:DATE>2018-11-16</ds:DATE>
+    <ds:DATE>2018-06-29</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.33</ds:PRCP>
+    <ds:DATE>2013-12-04</ds:DATE>
+    <ds:DATE>2013-03-04</ds:DATE>
+    <ds:DATE>2015-04-09</ds:DATE>
+    <ds:DATE>2016-09-28</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.9</ds:WSF2>
+    <ds:DATE>2015-02-18</ds:DATE>
+    <ds:DATE>2015-12-19</ds:DATE>
+    <ds:DATE>2015-08-25</ds:DATE>
+    <ds:DATE>2015-03-04</ds:DATE>
+    <ds:DATE>2013-04-05</ds:DATE>
+    <ds:STATION>USW00014740</ds:STATION>
+    <ds:DATE>2013-02-26</ds:DATE>
+    <ds:DATE>2017-01-28</ds:DATE>
+    <ds:DATE>2018-10-17</ds:DATE>
+    <ds:DATE>2017-05-26</ds:DATE>
+    <ds:DATE>2012-01-04</ds:DATE>
+    <ds:WT08 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT08>
+    <ds:DATE>2012-02-19</ds:DATE>
+    <ds:DATE>2012-01-14</ds:DATE>
+    <ds:DATE>2012-11-12</ds:DATE>
+    <ds:DATE>2014-03-10</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.64</ds:PRCP>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.63</ds:AWND>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ds:TMAX>
+    <ds:DATE>2018-08-31</ds:DATE>
+    <ds:DATE>2016-07-18</ds:DATE>
+    <ds:DATE>2014-05-05</ds:DATE>
+    <ds:DATE>2014-06-15</ds:DATE>
+    <ds:DATE>2012-08-10</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.9</ds:PRCP>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.48</ds:PRCP>
+    <ds:DATE>2015-07-13</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.19</ds:PRCP>
+    <ds:DATE>2018-07-19</ds:DATE>
+    <ds:DATE>2017-05-27</ds:DATE>
+    <ds:DATE>2018-09-29</ds:DATE>
+    <ds:DATE>2018-04-09</ds:DATE>
+    <ds:DATE>2018-08-21</ds:DATE>
+    <ds:DATE>2015-07-04</ds:DATE>
+    <ds:DATE>2017-12-14</ds:DATE>
+    <ds:DATE>2013-01-15</ds:DATE>
+    <ds:DATE>2014-02-13</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.55</ds:AWND>
+    <ds:DATE>2012-03-01</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-12</ds:TMIN>
+    <ds:DATE>2018-05-22</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.0</ds:WSF2>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</ds:TMAX>
+    <ds:DATE>2014-03-12</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1255.0</ds:PGTM>
+    <ds:DATE>2015-08-15</ds:DATE>
+    <ds:DATE>2017-04-27</ds:DATE>
+    <ds:DATE>2017-02-05</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.32</ds:PRCP>
+    <ds:DATE>2013-10-26</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.9</ds:WSF2>
+    <ds:DATE>2017-04-18</ds:DATE>
+    <ds:DATE>2017-11-12</ds:DATE>
+    <ds:DATE>2017-05-30</ds:DATE>
+    <ds:DATE>2018-06-16</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.45</ds:PRCP>
+    <ds:DATE>2015-07-11</ds:DATE>
+    <ds:DATE>2012-11-13</ds:DATE>
+    <ds:DATE>2016-12-17</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.0</ds:WSF5>
+    <ds:DATE>2014-01-10</ds:DATE>
+    <ds:DATE>2015-03-08</ds:DATE>
+    <ds:DATE>2017-11-17</ds:DATE>
+    <ds:DATE>2018-12-25</ds:DATE>
+    <ds:DATE>2018-08-10</ds:DATE>
+    <ds:DATE>2012-01-05</ds:DATE>
+    <ds:DATE>2016-12-26</ds:DATE>
+    <ds:DATE>2017-05-01</ds:DATE>
+    <ds:DATE>2012-03-10</ds:DATE>
+    <ds:DATE>2016-08-30</ds:DATE>
+    <ds:DATE>2015-02-06</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ds:TMAX>
+    <ds:DATE>2012-08-26</ds:DATE>
+    <ds:DATE>2017-02-21</ds:DATE>
+    <ds:DATE>2017-06-09</ds:DATE>
+    <ds:DATE>2018-03-25</ds:DATE>
+    <ds:DATE>2014-07-21</ds:DATE>
+    <ds:DATE>2013-08-28</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.0</ds:TAVG>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1153.0</ds:PGTM>
+    <ds:DATE>2016-02-21</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1454.0</ds:PGTM>
+    <ds:DATE>2017-05-05</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ds:TMIN>
+    <ds:DATE>2014-01-04</ds:DATE>
+    <ds:DATE>2017-09-16</ds:DATE>
+    <ds:DATE>2015-11-08</ds:DATE>
+    <ds:DATE>2018-06-20</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.02</ds:PRCP>
+    <ds:DATE>2016-06-06</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ds:TMIN>
+    <ds:DATE>2018-12-01</ds:DATE>
+    <ds:DATE>2012-10-31</ds:DATE>
+    <ds:DATE>2017-06-07</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1521.0</ds:PGTM>
+    <ds:DATE>2018-10-04</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ds:TMIN>
+    <ds:DATE>2016-02-23</ds:DATE>
+    <ds:DATE>2012-09-18</ds:DATE>
+    <ds:DATE>2017-06-22</ds:DATE>
+    <ds:DATE>2013-02-16</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</ds:WDF2>
+    <ds:DATE>2014-07-15</ds:DATE>
+    <ds:DATE>2017-07-29</ds:DATE>
+    <ds:DATE>2014-12-01</ds:DATE>
+    <ds:DATE>2016-03-25</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.93</ds:AWND>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.95</ds:PRCP>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.0</ds:WSF5>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</ds:TMAX>
+    <ds:DATE>2015-07-02</ds:DATE>
+    <ds:DATE>2016-10-22</ds:DATE>
+    <ds:DATE>2013-08-13</ds:DATE>
+    <ds:DATE>2013-11-11</ds:DATE>
+    <ds:DATE>2013-10-01</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.83</ds:PRCP>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ds:TMAX>
+    <ds:DATE>2013-02-09</ds:DATE>
+    <ds:DATE>2014-07-28</ds:DATE>
+    <ds:DATE>2018-08-07</ds:DATE>
+    <ds:DATE>2013-05-11</ds:DATE>
+    <ds:DATE>2017-02-27</ds:DATE>
+    <ds:DATE>2013-08-11</ds:DATE>
+    <ds:DATE>2016-05-19</ds:DATE>
+    <ds:DATE>2012-12-28</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.88</ds:AWND>
+    <ds:DATE>2015-06-15</ds:DATE>
+    <ds:DATE>2017-09-23</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</ds:WDF2>
+    <ds:DATE>2018-08-04</ds:DATE>
+    <ds:DATE>2016-01-02</ds:DATE>
+    <ds:DATE>2014-01-13</ds:DATE>
+    <ds:DATE>2017-12-20</ds:DATE>
+    <ds:DATE>2012-07-01</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.1</ds:WSF2>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.0</ds:TAVG>
+    <ds:DATE>2018-11-17</ds:DATE>
+    <ds:DATE>2017-04-05</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ds:WDF2>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.9</ds:SNWD>
+    <ds:DATE>2016-02-03</ds:DATE>
+    <ds:DATE>2013-10-03</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</ds:TAVG>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</ds:TMAX>
+    <ds:DATE>2018-12-18</ds:DATE>
+    <ds:DATE>2012-10-26</ds:DATE>
+    <ds:DATE>2015-04-02</ds:DATE>
+    <ds:DATE>2017-09-19</ds:DATE>
+    <ds:DATE>2017-11-20</ds:DATE>
+    <ds:DATE>2017-01-11</ds:DATE>
+    <ds:DATE>2013-07-26</ds:DATE>
+    <ds:DATE>2017-10-19</ds:DATE>
+    <ds:DATE>2017-02-07</ds:DATE>
+    <ds:DATE>2018-04-01</ds:DATE>
+    <ds:DATE>2018-02-15</ds:DATE>
+    <ds:DATE>2018-07-09</ds:DATE>
+    <ds:DATE>2012-08-13</ds:DATE>
+    <ds:DATE>2015-07-26</ds:DATE>
+    <ds:DATE>2013-02-25</ds:DATE>
+    <ds:DATE>2014-09-30</ds:DATE>
+    <ds:DATE>2018-01-30</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.32</ds:AWND>
+    <ds:DATE>2015-10-14</ds:DATE>
+    <ds:DATE>2014-07-13</ds:DATE>
+    <ds:DATE>2017-03-27</ds:DATE>
+    <ds:DATE>2014-08-10</ds:DATE>
+    <ds:DATE>2015-12-31</ds:DATE>
+    <ds:DATE>2018-04-19</ds:DATE>
+    <ds:DATE>2014-06-28</ds:DATE>
+    <ds:DATE>2012-03-30</ds:DATE>
+    <ds:DATE>2018-10-21</ds:DATE>
+    <ds:DATE>2017-06-10</ds:DATE>
+    <ds:DATE>2018-11-02</ds:DATE>
+    <ds:DATE>2016-12-28</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.96</ds:AWND>
+    <ds:DATE>2014-03-19</ds:DATE>
+    <ds:DATE>2016-08-05</ds:DATE>
+    <ds:DATE>2012-03-08</ds:DATE>
+    <ds:DATE>2016-08-19</ds:DATE>
+    <ds:DATE>2016-09-22</ds:DATE>
+    <ds:DATE>2017-12-26</ds:DATE>
+    <ds:DATE>2015-03-23</ds:DATE>
+    <ds:DATE>2012-04-26</ds:DATE>
+    <ds:DATE>2012-05-24</ds:DATE>
+    <ds:DATE>2012-04-04</ds:DATE>
+    <ds:DATE>2014-05-07</ds:DATE>
+    <ds:DATE>2014-07-25</ds:DATE>
+    <ds:DATE>2016-11-26</ds:DATE>
+    <ds:DATE>2017-10-02</ds:DATE>
+    <ds:DATE>2013-01-02</ds:DATE>
+    <ds:DATE>2018-05-04</ds:DATE>
+    <ds:DATE>2016-02-09</ds:DATE>
+    <ds:DATE>2018-10-14</ds:DATE>
+    <ds:DATE>2012-06-07</ds:DATE>
+    <ds:DATE>2018-06-28</ds:DATE>
+    <ds:DATE>2018-02-26</ds:DATE>
+    <ds:DATE>2016-11-13</ds:DATE>
+    <ds:DATE>2017-07-08</ds:DATE>
+    <ds:DATE>2012-07-04</ds:DATE>
+    <ds:DATE>2018-03-21</ds:DATE>
+    <ds:DATE>2012-04-29</ds:DATE>
+    <ds:DATE>2013-08-22</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ds:TMIN>
+    <ds:DATE>2016-10-24</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ds:TMAX>
+    <ds:DATE>2015-02-22</ds:DATE>
+    <ds:DATE>2017-04-17</ds:DATE>
+    <ds:DATE>2017-05-20</ds:DATE>
+    <ds:DATE>2016-01-20</ds:DATE>
+    <ds:DATE>2016-05-27</ds:DATE>
+    <ds:DATE>2016-09-10</ds:DATE>
+    <ds:DATE>2015-02-13</ds:DATE>
+    <ds:DATE>2014-10-20</ds:DATE>
+    <ds:DATE>2016-09-18</ds:DATE>
+    <ds:DATE>2017-07-09</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.66</ds:AWND>
+    <ds:DATE>2014-03-18</ds:DATE>
+    <ds:DATE>2017-03-28</ds:DATE>
+    <ds:WT22 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT22>
+    <ds:DATE>2018-10-31</ds:DATE>
+    <ds:DATE>2012-08-16</ds:DATE>
+    <ds:DATE>2013-07-17</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.89</ds:PRCP>
+    <ds:DATE>2013-12-27</ds:DATE>
+    <ds:DATE>2015-04-01</ds:DATE>
+    <ds:DATE>2017-05-02</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</ds:TMAX>
+    <ds:DATE>2013-07-14</ds:DATE>
+    <ds:DATE>2017-03-17</ds:DATE>
+    <ds:DATE>2014-06-10</ds:DATE>
+    <ds:DATE>2017-06-17</ds:DATE>
+    <ds:DATE>2016-01-06</ds:DATE>
+    <ds:DATE>2018-02-18</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ds:TMAX>
+    <ds:DATE>2013-08-19</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.6</ds:SNOW>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ds:TMIN>
+    <ds:DATE>2013-01-03</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ds:WDF2>
+    <ds:DATE>2013-06-13</ds:DATE>
+    <ds:DATE>2017-07-13</ds:DATE>
+    <ds:DATE>2018-05-18</ds:DATE>
+    <ds:DATE>2014-01-23</ds:DATE>
+    <ds:DATE>2016-10-20</ds:DATE>
+    <ds:DATE>2013-08-30</ds:DATE>
+    <ds:DATE>2018-02-23</ds:DATE>
+    <ds:DATE>2013-08-20</ds:DATE>
+    <ds:DATE>2015-11-05</ds:DATE>
+    <ds:DATE>2017-10-07</ds:DATE>
+    <ds:DATE>2014-07-29</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.65</ds:PRCP>
+    <ds:DATE>2014-08-06</ds:DATE>
+    <ds:DATE>2013-12-07</ds:DATE>
+    <ds:DATE>2018-03-18</ds:DATE>
+    <ds:DATE>2018-01-13</ds:DATE>
+    <ds:DATE>2018-09-13</ds:DATE>
+    <ds:DATE>2014-10-30</ds:DATE>
+    <ds:DATE>2016-12-24</ds:DATE>
+    <ds:DATE>2012-01-23</ds:DATE>
+    <ds:DATE>2017-05-25</ds:DATE>
+    <ds:DATE>2017-12-15</ds:DATE>
+    <ds:DATE>2012-11-27</ds:DATE>
+    <ds:DATE>2016-06-17</ds:DATE>
+    <ds:DATE>2015-12-08</ds:DATE>
+    <ds:DATE>2017-10-22</ds:DATE>
+    <ds:DATE>2018-02-06</ds:DATE>
+    <ds:DATE>2017-07-06</ds:DATE>
+    <ds:DATE>2017-04-07</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.9</ds:WSF5>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-2</ds:TMIN>
+    <ds:DATE>2015-10-27</ds:DATE>
+    <ds:DATE>2018-06-30</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1003.0</ds:PGTM>
+    <ds:DATE>2017-06-24</ds:DATE>
+    <ds:DATE>2015-11-24</ds:DATE>
+    <ds:DATE>2012-02-10</ds:DATE>
+    <ds:DATE>2016-07-07</ds:DATE>
+    <ds:DATE>2015-07-07</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.68</ds:AWND>
+    <ds:DATE>2013-03-08</ds:DATE>
+    <ds:DATE>2015-07-16</ds:DATE>
+    <ds:DATE>2017-08-28</ds:DATE>
+    <ds:DATE>2018-11-21</ds:DATE>
+    <ds:DATE>2017-11-02</ds:DATE>
+    <ds:DATE>2013-08-21</ds:DATE>
+    <ds:DATE>2014-06-12</ds:DATE>
+    <ds:DATE>2014-03-29</ds:DATE>
+    <ds:DATE>2016-03-20</ds:DATE>
+    <ds:DATE>2017-01-14</ds:DATE>
+    <ds:DATE>2015-01-05</ds:DATE>
+    <ds:DATE>2015-11-09</ds:DATE>
+    <ds:DATE>2014-05-26</ds:DATE>
+    <ds:DATE>2018-05-30</ds:DATE>
+    <ds:DATE>2015-04-12</ds:DATE>
+    <ds:DATE>2016-08-12</ds:DATE>
+    <ds:DATE>2015-09-23</ds:DATE>
+    <ds:DATE>2018-07-22</ds:DATE>
+    <ds:DATE>2015-05-14</ds:DATE>
+    <ds:DATE>2018-03-16</ds:DATE>
+    <ds:DATE>2013-05-31</ds:DATE>
+    <ds:DATE>2016-07-14</ds:DATE>
+    <ds:DATE>2013-01-10</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.89</ds:PRCP>
+    <ds:DATE>2013-01-21</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">62.0</ds:WSF5>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ds:TMAX>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.05</ds:PRCP>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.0</ds:TAVG>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.0</ds:TAVG>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ds:TMIN>
+    <ds:DATE>2015-03-16</ds:DATE>
+    <ds:DATE>2012-11-23</ds:DATE>
+    <ds:DATE>2017-04-09</ds:DATE>
+    <ds:DATE>2012-07-31</ds:DATE>
+    <ds:DATE>2017-04-30</ds:DATE>
+    <ds:DATE>2016-02-01</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.24</ds:AWND>
+    <ds:DATE>2017-11-28</ds:DATE>
+    <ds:DATE>2012-08-31</ds:DATE>
+    <ds:DATE>2016-07-12</ds:DATE>
+    <ds:DATE>2013-08-24</ds:DATE>
+    <ds:DATE>2018-09-11</ds:DATE>
+    <ds:DATE>2012-06-12</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.9</ds:WSF5>
+    <ds:DATE>2014-10-16</ds:DATE>
+    <ds:DATE>2014-05-11</ds:DATE>
+    <ds:DATE>2015-05-28</ds:DATE>
+    <ds:DATE>2015-08-28</ds:DATE>
+    <ds:DATE>2017-01-07</ds:DATE>
+    <ds:DATE>2015-08-01</ds:DATE>
+    <ds:DATE>2014-08-09</ds:DATE>
+    <ds:DATE>2014-10-04</ds:DATE>
+    <ds:DATE>2015-04-14</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.63</ds:PRCP>
+    <ds:DATE>2016-02-11</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ds:SNOW>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ds:TAVG>
+    <ds:DATE>2016-10-06</ds:DATE>
+    <ds:DATE>2018-05-28</ds:DATE>
+    <ds:DATE>2014-07-06</ds:DATE>
+    <ds:DATE>2012-06-14</ds:DATE>
+    <ds:DATE>2017-06-04</ds:DATE>
+    <ds:DATE>2012-02-12</ds:DATE>
+    <ds:DATE>2014-10-24</ds:DATE>
+    <ds:DATE>2012-10-28</ds:DATE>
+    <ds:DATE>2012-05-25</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.1</ds:WSF5>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</ds:WDF2>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">300.0</ds:WDF5>
+    <ds:DATE>2017-04-25</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</ds:TMAX>
+    <ds:DATE>2014-05-19</ds:DATE>
+    <ds:DATE>2016-12-09</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">533.0</ds:PGTM>
+    <ds:DATE>2014-03-26</ds:DATE>
+    <ds:DATE>2012-01-28</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1220.0</ds:PGTM>
+    <ds:DATE>2018-12-22</ds:DATE>
+    <ds:DATE>2016-02-06</ds:DATE>
+    <ds:DATE>2016-12-31</ds:DATE>
+    <ds:DATE>2013-01-26</ds:DATE>
+    <ds:DATE>2018-05-24</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">70.0</ds:WDF5>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</ds:TMAX>
+    <ds:DATE>2015-09-08</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ds:TMAX>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</ds:SNOW>
+    <ds:DATE>2016-05-28</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1036.0</ds:PGTM>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">77.0</ds:TAVG>
+    <ds:DATE>2014-04-06</ds:DATE>
+    <ds:DATE>2014-02-01</ds:DATE>
+    <ds:DATE>2018-09-18</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ds:TMIN>
+    <ds:DATE>2013-06-09</ds:DATE>
+    <ds:DATE>2014-09-20</ds:DATE>
+    <ds:DATE>2015-05-08</ds:DATE>
+    <ds:DATE>2016-10-15</ds:DATE>
+    <ds:DATE>2017-12-01</ds:DATE>
+    <ds:DATE>2015-06-16</ds:DATE>
+    <ds:DATE>2015-02-24</ds:DATE>
+    <ds:DATE>2015-10-15</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.67</ds:PRCP>
+    <ds:DATE>2013-05-01</ds:DATE>
+    <ds:DATE>2014-03-11</ds:DATE>
+    <ds:DATE>2016-05-17</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.0</ds:WSF2>
+    <ds:DATE>2017-10-13</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.04</ds:AWND>
+    <ds:DATE>2016-06-24</ds:DATE>
+    <ds:DATE>2017-01-22</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.04</ds:PRCP>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ds:TMAX>
+    <ds:DATE>2015-04-05</ds:DATE>
+    <ds:DATE>2012-03-22</ds:DATE>
+    <ds:DATE>2016-02-13</ds:DATE>
+    <ds:DATE>2016-04-29</ds:DATE>
+    <ds:DATE>2012-01-21</ds:DATE>
+    <ds:DATE>2018-07-23</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.8</ds:SNOW>
+    <ds:DATE>2013-09-17</ds:DATE>
+    <ds:DATE>2016-07-28</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.1</ds:WSF2>
+    <ds:DATE>2017-01-19</ds:DATE>
+    <ds:DATE>2013-11-23</ds:DATE>
+    <ds:DATE>2018-08-14</ds:DATE>
+    <ds:DATE>2012-09-10</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.0</ds:TAVG>
+    <ds:DATE>2015-01-14</ds:DATE>
+    <ds:DATE>2017-03-03</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.9</ds:WSF5>
+    <ds:DATE>2015-03-26</ds:DATE>
+    <ds:DATE>2014-05-08</ds:DATE>
+    <ds:DATE>2017-10-27</ds:DATE>
+    <ds:DATE>2018-03-28</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">250.0</ds:WDF5>
+    <ds:DATE>2013-05-24</ds:DATE>
+    <ds:DATE>2017-11-01</ds:DATE>
+    <ds:DATE>2013-12-26</ds:DATE>
+    <ds:DATE>2012-03-24</ds:DATE>
+    <ds:DATE>2012-05-11</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.1</ds:WSF5>
+    <ds:DATE>2012-09-20</ds:DATE>
+    <ds:DATE>2013-09-15</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</ds:WDF2>
+    <ds:DATE>2013-05-08</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.3</ds:SNOW>
+    <ds:DATE>2014-05-22</ds:DATE>
+    <ds:DATE>2017-10-29</ds:DATE>
+    <ds:DATE>2016-04-26</ds:DATE>
+    <ds:DATE>2018-03-07</ds:DATE>
+    <ds:DATE>2017-11-29</ds:DATE>
+    <ds:DATE>2012-10-14</ds:DATE>
+    <ds:DATE>2012-08-05</ds:DATE>
+    <ds:DATE>2012-11-16</ds:DATE>
+    <ds:DATE>2013-01-09</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.15</ds:AWND>
+    <ds:DATE>2013-10-10</ds:DATE>
+    <ds:DATE>2012-10-02</ds:DATE>
+    <ds:DATE>2015-01-24</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ds:TMIN>
+    <ds:DATE>2017-02-01</ds:DATE>
+    <ds:DATE>2015-02-07</ds:DATE>
+    <ds:DATE>2016-09-12</ds:DATE>
+    <ds:DATE>2017-07-27</ds:DATE>
+    <ds:DATE>2012-10-05</ds:DATE>
+    <ds:DATE>2013-02-13</ds:DATE>
+    <ds:DATE>2012-12-29</ds:DATE>
+    <ds:DATE>2015-03-27</ds:DATE>
+    <ds:DATE>2017-07-11</ds:DATE>
+    <ds:DATE>2018-05-14</ds:DATE>
+    <ds:DATE>2018-08-11</ds:DATE>
+    <ds:DATE>2014-06-16</ds:DATE>
+    <ds:DATE>2015-10-19</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ds:TMAX>
+    <ds:DATE>2012-05-17</ds:DATE>
+    <ds:DATE>2015-07-17</ds:DATE>
+    <ds:DATE>2017-02-02</ds:DATE>
+    <ds:DATE>2013-09-27</ds:DATE>
+    <ds:DATE>2016-01-24</ds:DATE>
+    <ds:DATE>2016-11-10</ds:DATE>
+    <ds:DATE>2016-04-16</ds:DATE>
+    <ds:DATE>2016-04-21</ds:DATE>
+    <ds:DATE>2016-08-03</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ds:TMAX>
+    <ds:DATE>2018-11-28</ds:DATE>
+    <ds:DATE>2017-02-03</ds:DATE>
+    <ds:DATE>2017-06-29</ds:DATE>
+    <ds:DATE>2012-10-25</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1320.0</ds:PGTM>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.0</ds:PGTM>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1021.0</ds:PGTM>
+    <ds:DATE>2015-05-18</ds:DATE>
+    <ds:DATE>2013-11-21</ds:DATE>
+    <ds:DATE>2017-11-26</ds:DATE>
+    <ds:DATE>2012-07-27</ds:DATE>
+    <ds:DATE>2012-08-25</ds:DATE>
+    <ds:DATE>2012-03-12</ds:DATE>
+    <ds:DATE>2016-08-26</ds:DATE>
+    <ds:DATE>2014-12-26</ds:DATE>
+    <ds:DATE>2016-12-27</ds:DATE>
+    <ds:DATE>2017-07-15</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ds:TMIN>
+    <ds:DATE>2016-02-04</ds:DATE>
+    <ds:DATE>2015-12-29</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.16</ds:PRCP>
+    <ds:DATE>2014-02-22</ds:DATE>
+    <ds:DATE>2013-03-03</ds:DATE>
+    <ds:DATE>2012-10-20</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.52</ds:PRCP>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.31</ds:PRCP>
+    <ds:DATE>2014-08-31</ds:DATE>
+    <ds:DATE>2015-03-11</ds:DATE>
+    <ds:DATE>2017-01-02</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</ds:PRCP>
+    <ds:DATE>2015-02-11</ds:DATE>
+    <ds:DATE>2017-03-06</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.3</ds:SNOW>
+    <ds:DATE>2014-09-09</ds:DATE>
+    <ds:DATE>2012-12-10</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.0</ds:TAVG>
+    <ds:DATE>2016-10-31</ds:DATE>
+    <ds:DATE>2017-07-20</ds:DATE>
+    <ds:DATE>2017-08-26</ds:DATE>
+    <ds:DATE>2018-12-06</ds:DATE>
+    <ds:DATE>2018-10-11</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</ds:TMIN>
+    <ds:DATE>2015-03-02</ds:DATE>
+    <ds:DATE>2018-08-28</ds:DATE>
+    <ds:DATE>2012-11-17</ds:DATE>
+    <ds:FMTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1410.0</ds:FMTM>
+    <ds:DATE>2017-04-13</ds:DATE>
+    <ds:DATE>2017-08-14</ds:DATE>
+    <ds:DATE>2018-02-16</ds:DATE>
+    <ds:DATE>2013-07-03</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</ds:TMAX>
+    <ds:DATE>2016-05-08</ds:DATE>
+    <ds:DATE>2018-06-09</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">290</ds:WDF2>
+    <ds:DATE>2013-02-04</ds:DATE>
+    <ds:DATE>2017-10-03</ds:DATE>
+    <ds:DATE>2015-04-16</ds:DATE>
+    <ds:DATE>2012-03-25</ds:DATE>
+    <ds:DATE>2012-05-31</ds:DATE>
+    <ds:DATE>2017-12-13</ds:DATE>
+    <ds:DATE>2017-01-10</ds:DATE>
+    <ds:DATE>2013-04-13</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ds:TMIN>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.35</ds:PRCP>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.59</ds:AWND>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.01</ds:PRCP>
+    <ds:DATE>2016-01-16</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.91</ds:AWND>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.9</ds:WSF5>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.0</ds:WSF5>
+    <ds:DATE>2016-05-26</ds:DATE>
+    <ds:DATE>2016-02-12</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.0</ds:WDF5>
+    <ds:DATE>2015-08-07</ds:DATE>
+    <ds:DATE>2018-12-04</ds:DATE>
+    <ds:DATE>2016-04-12</ds:DATE>
+    <ds:DATE>2012-09-11</ds:DATE>
+    <ds:DATE>2015-05-03</ds:DATE>
+    <ds:DATE>2016-07-11</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.45</ds:PRCP>
+    <ds:DATE>2012-04-17</ds:DATE>
+    <ds:DATE>2014-08-26</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.78</ds:AWND>
+    <ds:DATE>2013-10-07</ds:DATE>
+    <ds:DATE>2017-12-09</ds:DATE>
+    <ds:DATE>2016-07-08</ds:DATE>
+    <ds:DATE>2014-08-30</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ds:TMIN>
+    <ds:DATE>2017-08-23</ds:DATE>
+    <ds:DATE>2017-10-06</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">93</ds:TMAX>
+    <ds:DATE>2015-06-22</ds:DATE>
+    <ds:DATE>2014-11-24</ds:DATE>
+    <ds:DATE>2016-03-24</ds:DATE>
+    <ds:DATE>2018-03-13</ds:DATE>
+    <ds:DATE>2017-12-17</ds:DATE>
+    <ds:DATE>2015-07-23</ds:DATE>
+    <ds:DATE>2015-08-05</ds:DATE>
+    <ds:DATE>2014-02-07</ds:DATE>
+    <ds:DATE>2018-04-10</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ds:TMAX>
+    <ds:DATE>2014-06-30</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.58</ds:PRCP>
+    <ds:DATE>2013-09-03</ds:DATE>
+    <ds:DATE>2015-11-15</ds:DATE>
+    <ds:DATE>2016-04-05</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">69.0</ds:TAVG>
+    <ds:DATE>2016-11-28</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9</ds:WSF2>
+    <ds:DATE>2018-09-04</ds:DATE>
+    <ds:DATE>2018-02-11</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">57.0</ds:TAVG>
+    <ds:DATE>2015-01-19</ds:DATE>
+    <ds:DATE>2012-10-17</ds:DATE>
+    <ds:DATE>2016-11-23</ds:DATE>
+    <ds:DATE>2018-02-07</ds:DATE>
+    <ds:DATE>2013-01-20</ds:DATE>
+    <ds:DATE>2018-03-31</ds:DATE>
+    <ds:DATE>2014-07-26</ds:DATE>
+    <ds:DATE>2014-07-22</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.0</ds:TAVG>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.0</ds:TAVG>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.09</ds:PRCP>
+    <ds:DATE>2018-06-15</ds:DATE>
+    <ds:DATE>2014-06-23</ds:DATE>
+    <ds:DATE>2012-09-29</ds:DATE>
+    <ds:DATE>2018-04-05</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.19</ds:PRCP>
+    <ds:DATE>2016-05-25</ds:DATE>
+    <ds:DATE>2017-04-04</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</ds:TMAX>
+    <ds:DATE>2017-04-16</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.43</ds:PRCP>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.69</ds:PRCP>
+    <ds:DATE>2012-08-03</ds:DATE>
+    <ds:DATE>2016-09-15</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.72</ds:PRCP>
+    <ds:DATE>2012-12-21</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</ds:WDF2>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">230.0</ds:WDF5>
+    <ds:DATE>2012-10-13</ds:DATE>
+    <ds:DATE>2013-12-05</ds:DATE>
+    <ds:DATE>2015-03-13</ds:DATE>
+    <ds:DATE>2016-03-13</ds:DATE>
+    <ds:DATE>2013-07-01</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.2</ds:SNOW>
+    <ds:DATE>2018-07-31</ds:DATE>
+    <ds:DATE>2015-01-27</ds:DATE>
+    <ds:DATE>2014-06-11</ds:DATE>
+    <ds:DATE>2015-03-24</ds:DATE>
+    <ds:DATE>2016-03-11</ds:DATE>
+    <ds:DATE>2012-05-18</ds:DATE>
+    <ds:DATE>2016-03-15</ds:DATE>
+    <ds:DATE>2018-01-19</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ds:TMIN>
+    <ds:DATE>2012-11-28</ds:DATE>
+    <ds:DATE>2016-07-17</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.11</ds:PRCP>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</ds:TMAX>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2035.0</ds:PGTM>
+    <ds:DATE>2014-03-31</ds:DATE>
+    <ds:DATE>2018-01-22</ds:DATE>
+    <ds:DATE>2015-05-16</ds:DATE>
+    <ds:DATE>2013-03-19</ds:DATE>
+    <ds:DATE>2013-07-21</ds:DATE>
+    <ds:DATE>2018-08-16</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4</ds:PRCP>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9</ds:WSF5>
+    <ds:DATE>2013-11-04</ds:DATE>
+    <ds:DATE>2015-04-24</ds:DATE>
+    <ds:DATE>2016-05-21</ds:DATE>
+    <ds:DATE>2015-06-02</ds:DATE>
+    <ds:DATE>2016-11-21</ds:DATE>
+    <ds:DATE>2015-06-29</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60.0</ds:WDF5>
+    <ds:DATE>2018-10-06</ds:DATE>
+    <ds:DATE>2012-08-01</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.36</ds:PRCP>
+    <ds:DATE>2016-07-20</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.0</ds:TAVG>
+    <ds:DATE>2014-01-18</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</ds:WDF2>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.72</ds:AWND>
+    <ds:DATE>2016-05-11</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ds:TMIN>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.34</ds:PRCP>
+    <ds:DATE>2014-01-21</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.0</ds:WSF5>
+    <ds:DATE>2016-08-27</ds:DATE>
+    <ds:DATE>2015-07-24</ds:DATE>
+    <ds:DATE>2015-07-09</ds:DATE>
+    <ds:DATE>2012-11-04</ds:DATE>
+    <ds:DATE>2015-01-23</ds:DATE>
+    <ds:DATE>2018-12-21</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">80.0</ds:WDF5>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.0</ds:AWND>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ds:TMAX>
+    <ds:DATE>2015-08-29</ds:DATE>
+    <ds:DATE>2018-07-03</ds:DATE>
+    <ds:DATE>2018-12-28</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.1</ds:WSF5>
+    <ds:DATE>2016-08-08</ds:DATE>
+    <ds:DATE>2013-03-27</ds:DATE>
+    <ds:DATE>2018-10-01</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.0</ds:TAVG>
+    <ds:DATE>2018-01-27</ds:DATE>
+    <ds:DATE>2016-05-12</ds:DATE>
+    <ds:DATE>2017-03-20</ds:DATE>
+    <ds:DATE>2016-09-14</ds:DATE>
+    <ds:DATE>2012-09-22</ds:DATE>
+    <ds:DATE>2018-07-29</ds:DATE>
+    <ds:DATE>2012-02-09</ds:DATE>
+    <ds:DATE>2017-12-21</ds:DATE>
+    <ds:DATE>2013-02-20</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.4</ds:SNOW>
+    <ds:DATE>2017-11-11</ds:DATE>
+    <ds:DATE>2012-06-05</ds:DATE>
+    <ds:DATE>2013-10-06</ds:DATE>
+    <ds:DATE>2017-11-03</ds:DATE>
+    <ds:DATE>2018-09-03</ds:DATE>
+    <ds:DATE>2016-01-18</ds:DATE>
+    <ds:DATE>2017-05-10</ds:DATE>
+    <ds:DATE>2012-06-30</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.9</ds:SNWD>
+    <ds:DATE>2018-06-04</ds:DATE>
+    <ds:DATE>2014-03-03</ds:DATE>
+    <ds:DATE>2015-07-22</ds:DATE>
+    <ds:DATE>2016-10-04</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</ds:TMAX>
+    <ds:DATE>2017-11-06</ds:DATE>
+    <ds:DATE>2016-03-31</ds:DATE>
+    <ds:DATE>2016-04-27</ds:DATE>
+    <ds:DATE>2013-05-06</ds:DATE>
+    <ds:DATE>2015-11-26</ds:DATE>
+    <ds:DATE>2016-07-06</ds:DATE>
+    <ds:DATE>2013-04-30</ds:DATE>
+    <ds:DATE>2015-08-24</ds:DATE>
+    <ds:DATE>2015-10-11</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.9</ds:SNOW>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</ds:WDF2>
+    <ds:DATE>2017-12-28</ds:DATE>
+    <ds:DATE>2016-08-14</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.57</ds:PRCP>
+    <ds:DATE>2015-03-12</ds:DATE>
+    <ds:DATE>2016-12-20</ds:DATE>
+    <ds:DATE>2016-11-02</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.01</ds:AWND>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">66.0</ds:TAVG>
+    <ds:DATE>2014-03-23</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.09</ds:AWND>
+    <ds:DATE>2017-08-21</ds:DATE>
+    <ds:DATE>2015-01-06</ds:DATE>
+    <ds:DATE>2017-08-05</ds:DATE>
+    <ds:DATE>2013-05-23</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.1</ds:WSF2>
+    <ds:DATE>2013-05-20</ds:DATE>
+    <ds:DATE>2013-01-07</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</ds:TMIN>
+    <ds:DATE>2014-12-22</ds:DATE>
+    <ds:DATE>2012-06-01</ds:DATE>
+    <ds:DATE>2015-08-08</ds:DATE>
+    <ds:DATE>2013-06-10</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.1</ds:WSF5>
+    <ds:DATE>2016-11-03</ds:DATE>
+    <ds:DATE>2018-12-31</ds:DATE>
+    <ds:DATE>2013-01-22</ds:DATE>
+    <ds:DATE>2012-03-18</ds:DATE>
+    <ds:DATE>2015-08-04</ds:DATE>
+    <ds:DATE>2017-05-19</ds:DATE>
+    <ds:DATE>2014-12-13</ds:DATE>
+    <ds:DATE>2012-10-04</ds:DATE>
+    <ds:DATE>2013-05-04</ds:DATE>
+    <ds:DATE>2013-12-09</ds:DATE>
+    <ds:DATE>2014-04-12</ds:DATE>
+    <ds:DATE>2012-03-20</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.0</ds:WSF2>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.7</ds:AWND>
+    <ds:DATE>2018-07-27</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.4</ds:SNOW>
+    <ds:DATE>2018-11-22</ds:DATE>
+    <ds:DATE>2013-06-04</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.0</ds:SNWD>
+    <ds:DATE>2012-12-01</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</ds:TMAX>
+    <ds:DATE>2014-04-01</ds:DATE>
+    <ds:DATE>2014-12-05</ds:DATE>
+    <ds:WT13 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT13>
+    <ds:DATE>2015-10-29</ds:DATE>
+    <ds:DATE>2017-08-30</ds:DATE>
+    <ds:DATE>2014-06-05</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.24</ds:PRCP>
+    <ds:DATE>2016-06-03</ds:DATE>
+    <ds:DATE>2017-11-30</ds:DATE>
+    <ds:DATE>2016-09-06</ds:DATE>
+    <ds:DATE>2014-03-17</ds:DATE>
+    <ds:DATE>2012-11-03</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.0</ds:TAVG>
+    <ds:DATE>2016-09-24</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.1</ds:SNWD>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.1</ds:WSF5>
+    <ds:DATE>2017-05-18</ds:DATE>
+    <ds:DATE>2012-05-14</ds:DATE>
+    <ds:DATE>2013-08-08</ds:DATE>
+    <ds:DATE>2014-02-25</ds:DATE>
+    <ds:DATE>2016-10-10</ds:DATE>
+    <ds:DATE>2013-09-08</ds:DATE>
+    <ds:DATE>2012-01-09</ds:DATE>
+    <ds:DATE>2013-01-24</ds:DATE>
+    <ds:DATE>2015-11-12</ds:DATE>
+    <ds:DATE>2013-01-25</ds:DATE>
+    <ds:DATE>2014-01-16</ds:DATE>
+    <ds:DATE>2013-02-17</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.85</ds:PRCP>
+    <ds:DATE>2014-07-27</ds:DATE>
+    <ds:DATE>2016-06-21</ds:DATE>
+    <ds:DATE>2017-10-09</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ds:TMAX>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.58</ds:AWND>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.0</ds:TAVG>
+    <ds:DATE>2016-04-10</ds:DATE>
+    <ds:DATE>2015-12-07</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.09</ds:PRCP>
+    <ds:DATE>2016-10-30</ds:DATE>
+    <ds:DATE>2015-11-16</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</ds:TMIN>
+    <ds:DATE>2013-01-08</ds:DATE>
+    <ds:DATE>2012-01-11</ds:DATE>
+    <ds:DATE>2012-08-04</ds:DATE>
+    <ds:DATE>2013-12-19</ds:DATE>
+    <ds:DATE>2018-09-24</ds:DATE>
+    <ds:DATE>2013-06-02</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ds:TMIN>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">56.0</ds:TAVG>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.0</ds:WSF5>
+    <ds:DATE>2015-06-26</ds:DATE>
+    <ds:DATE>2017-11-05</ds:DATE>
+    <ds:DATE>2018-08-12</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.62</ds:PRCP>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.1</ds:WSF5>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ds:TMIN>
+    <ds:DATE>2013-08-10</ds:DATE>
+    <ds:DATE>2013-06-17</ds:DATE>
+    <ds:DATE>2018-04-03</ds:DATE>
+    <ds:DATE>2012-05-02</ds:DATE>
+    <ds:DATE>2013-02-05</ds:DATE>
+    <ds:DATE>2012-01-26</ds:DATE>
+    <ds:DATE>2012-02-17</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.46</ds:PRCP>
+    <ds:DATE>2017-08-07</ds:DATE>
+    <ds:DATE>2018-11-01</ds:DATE>
+    <ds:DATE>2014-01-05</ds:DATE>
+    <ds:DATE>2015-03-09</ds:DATE>
+    <ds:DATE>2014-12-25</ds:DATE>
+    <ds:DATE>2014-09-02</ds:DATE>
+    <ds:DATE>2017-02-10</ds:DATE>
+    <ds:DATE>2013-03-01</ds:DATE>
+    <ds:DATE>2013-02-22</ds:DATE>
+    <ds:DATE>2017-02-26</ds:DATE>
+    <ds:DATE>2017-09-12</ds:DATE>
+    <ds:DATE>2017-10-14</ds:DATE>
+    <ds:DATE>2015-01-21</ds:DATE>
+    <ds:DATE>2012-01-13</ds:DATE>
+    <ds:DATE>2015-07-15</ds:DATE>
+    <ds:DATE>2014-09-04</ds:DATE>
+    <ds:DATE>2013-06-03</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.0</ds:TAVG>
+    <ds:DATE>2015-10-07</ds:DATE>
+    <ds:DATE>2016-05-09</ds:DATE>
+    <ds:DATE>2012-12-25</ds:DATE>
+    <ds:DATE>2018-05-10</ds:DATE>
+    <ds:DATE>2013-03-12</ds:DATE>
+    <ds:DATE>2014-12-20</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.8</ds:AWND>
+    <ds:DATE>2014-03-05</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.24</ds:AWND>
+    <ds:DATE>2017-04-11</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</ds:TMAX>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">64.0</ds:TAVG>
+    <ds:DATE>2015-04-10</ds:DATE>
+    <ds:DATE>2016-04-24</ds:DATE>
+    <ds:DATE>2017-06-23</ds:DATE>
+    <ds:DATE>2012-05-23</ds:DATE>
+    <ds:DATE>2012-08-19</ds:DATE>
+    <ds:DATE>2018-05-16</ds:DATE>
+    <ds:DATE>2012-05-19</ds:DATE>
+    <ds:DATE>2013-12-06</ds:DATE>
+    <ds:DATE>2013-07-18</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ds:TMAX>
+    <ds:DATE>2012-05-13</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">61.0</ds:TAVG>
+    <ds:DATE>2018-04-25</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</ds:WDF5>
+    <ds:DATE>2016-09-03</ds:DATE>
+    <ds:DATE>2018-11-05</ds:DATE>
+    <ds:DATE>2016-11-14</ds:DATE>
+    <ds:DATE>2016-09-27</ds:DATE>
+    <ds:DATE>2016-10-18</ds:DATE>
+    <ds:DATE>2014-03-04</ds:DATE>
+    <ds:DATE>2015-05-22</ds:DATE>
+    <ds:DATE>2017-06-01</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.0</ds:WSF2>
+    <ds:DATE>2013-03-16</ds:DATE>
+    <ds:DATE>2014-08-18</ds:DATE>
+    <ds:DATE>2015-04-08</ds:DATE>
+    <ds:DATE>2012-10-12</ds:DATE>
+    <ds:DATE>2016-07-15</ds:DATE>
+    <ds:DATE>2014-05-04</ds:DATE>
+    <ds:DATE>2017-05-23</ds:DATE>
+    <ds:DATE>2013-10-23</ds:DATE>
+    <ds:DATE>2013-01-28</ds:DATE>
+    <ds:DATE>2013-02-21</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</ds:TMAX>
+    <ds:DATE>2015-02-16</ds:DATE>
+    <ds:DATE>2018-07-11</ds:DATE>
+    <ds:DATE>2013-08-29</ds:DATE>
+    <ds:DATE>2014-12-03</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.1</ds:SNWD>
+    <ds:DATE>2013-06-16</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">160.0</ds:WDF5>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1709.0</ds:PGTM>
+    <ds:DATE>2018-03-11</ds:DATE>
+    <ds:DATE>2016-07-27</ds:DATE>
+    <ds:DATE>2016-01-28</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.77</ds:PRCP>
+    <ds:DATE>2014-11-16</ds:DATE>
+    <ds:DATE>2017-01-31</ds:DATE>
+    <ds:DATE>2017-11-25</ds:DATE>
+    <ds:DATE>2012-06-03</ds:DATE>
+    <ds:DATE>2013-10-04</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.86</ds:PRCP>
+    <ds:DATE>2018-11-15</ds:DATE>
+    <ds:DATE>2014-12-09</ds:DATE>
+    <ds:DATE>2012-09-02</ds:DATE>
+    <ds:DATE>2013-01-06</ds:DATE>
+    <ds:DATE>2018-04-13</ds:DATE>
+    <ds:DATE>2017-06-19</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.27</ds:PRCP>
+    <ds:DATE>2012-03-29</ds:DATE>
+    <ds:DATE>2013-06-29</ds:DATE>
+    <ds:DATE>2012-05-15</ds:DATE>
+    <ds:DATE>2016-11-20</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ds:TMIN>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ds:TMAX>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</ds:TMIN>
+    <ds:DATE>2018-12-07</ds:DATE>
+    <ds:DATE>2013-11-09</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</ds:WDF2>
+    <ds:DATE>2016-04-01</ds:DATE>
+    <ds:DATE>2018-01-05</ds:DATE>
+    <ds:DATE>2018-04-15</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.9</ds:WSF5>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.8</ds:SNOW>
+    <ds:DATE>2015-03-10</ds:DATE>
+    <ds:DATE>2014-06-06</ds:DATE>
+    <ds:DATE>2012-06-29</ds:DATE>
+    <ds:DATE>2013-09-13</ds:DATE>
+    <ds:DATE>2018-07-12</ds:DATE>
+    <ds:DATE>2013-10-09</ds:DATE>
+    <ds:DATE>2018-03-22</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.8</ds:SNOW>
+    <ds:DATE>2014-05-12</ds:DATE>
+    <ds:DATE>2015-04-29</ds:DATE>
+    <ds:DATE>2014-09-23</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.5</ds:SNOW>
+    <ds:DATE>2012-07-18</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.1</ds:WSF5>
+    <ds:DATE>2012-04-13</ds:DATE>
+    <ds:DATE>2012-05-16</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">100.0</ds:WDF5>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ds:TMIN>
+    <ds:DATE>2013-05-18</ds:DATE>
+    <ds:DATE>2016-08-01</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.3</ds:PRCP>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8</ds:PRCP>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.33</ds:AWND>
+    <ds:DATE>2012-04-30</ds:DATE>
+    <ds:DATE>2014-09-18</ds:DATE>
+    <ds:DATE>2013-01-17</ds:DATE>
+    <ds:DATE>2017-03-29</ds:DATE>
+    <ds:DATE>2014-09-14</ds:DATE>
+    <ds:DATE>2018-07-30</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.46</ds:AWND>
+    <ds:DATE>2013-05-16</ds:DATE>
+    <ds:DATE>2013-02-07</ds:DATE>
+    <ds:DATE>2013-10-18</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ds:TMAX>
+    <ds:DATE>2014-11-05</ds:DATE>
+    <ds:DATE>2018-08-09</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ds:TMAX>
+    <ds:DATE>2016-02-10</ds:DATE>
+    <ds:DATE>2013-02-02</ds:DATE>
+    <ds:DATE>2015-09-10</ds:DATE>
+    <ds:DATE>2015-01-04</ds:DATE>
+    <ds:DATE>2013-01-05</ds:DATE>
+    <ds:DATE>2015-06-04</ds:DATE>
+    <ds:DATE>2016-05-07</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.9</ds:WSF5>
+    <ds:DATE>2016-08-25</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.56</ds:PRCP>
+    <ds:DATE>2016-06-09</ds:DATE>
+    <ds:DATE>2014-05-17</ds:DATE>
+    <ds:DATE>2014-09-24</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.76</ds:AWND>
+    <ds:DATE>2012-12-12</ds:DATE>
+    <ds:DATE>2016-03-22</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.92</ds:AWND>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.9</ds:WSF5>
+    <ds:DATE>2013-02-06</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.0</ds:WDF5>
+    <ds:DATE>2013-03-22</ds:DATE>
+    <ds:DATE>2012-04-15</ds:DATE>
+    <ds:DATE>2015-12-14</ds:DATE>
+    <ds:DATE>2016-07-13</ds:DATE>
+    <ds:DATE>2016-12-06</ds:DATE>
+    <ds:DATE>2018-10-20</ds:DATE>
+    <ds:DATE>2016-06-08</ds:DATE>
+    <ds:DATE>2014-02-10</ds:DATE>
+    <ds:DATE>2014-02-28</ds:DATE>
+    <ds:DATE>2016-05-14</ds:DATE>
+    <ds:DATE>2017-09-06</ds:DATE>
+    <ds:DATE>2014-05-01</ds:DATE>
+    <ds:DATE>2017-10-30</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.0</ds:PGTM>
+    <ds:DATE>2016-06-07</ds:DATE>
+    <ds:DATE>2018-03-23</ds:DATE>
+    <ds:DATE>2014-04-23</ds:DATE>
+    <ds:DATE>2012-06-21</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.1</ds:SNOW>
+    <ds:DATE>2016-01-05</ds:DATE>
+    <ds:DATE>2015-03-25</ds:DATE>
+    <ds:DATE>2018-08-25</ds:DATE>
+    <ds:DATE>2012-07-19</ds:DATE>
+    <ds:DATE>2016-06-05</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.0</ds:TAVG>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">68.0</ds:TAVG>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.37</ds:AWND>
+    <ds:DATE>2013-04-09</ds:DATE>
+    <ds:DATE>2018-01-12</ds:DATE>
+    <ds:DATE>2018-04-20</ds:DATE>
+    <ds:DATE>2015-10-08</ds:DATE>
+    <ds:DATE>2013-05-13</ds:DATE>
+    <ds:DATE>2016-12-08</ds:DATE>
+    <ds:DATE>2016-02-28</ds:DATE>
+    <ds:DATE>2018-12-10</ds:DATE>
+    <ds:DATE>2012-05-01</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.17</ds:PRCP>
+    <ds:DATE>2016-12-10</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.72</ds:PRCP>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.0</ds:SNWD>
+    <ds:DATE>2014-06-18</ds:DATE>
+    <ds:DATE>2014-06-21</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.2</ds:SNOW>
+    <ds:DATE>2018-10-16</ds:DATE>
+    <ds:DATE>2014-10-06</ds:DATE>
+    <ds:DATE>2014-12-07</ds:DATE>
+    <ds:DATE>2015-05-21</ds:DATE>
+    <ds:DATE>2016-05-15</ds:DATE>
+    <ds:DATE>2012-10-21</ds:DATE>
+    <ds:DATE>2013-09-16</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2041.0</ds:PGTM>
+    <ds:DATE>2015-05-13</ds:DATE>
+    <ds:DATE>2014-01-17</ds:DATE>
+    <ds:DATE>2017-02-09</ds:DATE>
+    <ds:DATE>2018-05-02</ds:DATE>
+    <ds:DATE>2012-04-23</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.0</ds:WSF5>
+    <ds:DATE>2018-08-15</ds:DATE>
+    <ds:DATE>2014-05-09</ds:DATE>
+    <ds:DATE>2012-01-18</ds:DATE>
+    <ds:DATE>2013-04-28</ds:DATE>
+    <ds:DATE>2017-08-27</ds:DATE>
+    <ds:DATE>2012-07-15</ds:DATE>
+    <ds:DATE>2017-08-18</ds:DATE>
+    <ds:DATE>2017-10-04</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.61</ds:AWND>
+    <ds:DATE>2012-09-28</ds:DATE>
+    <ds:DATE>2018-02-02</ds:DATE>
+    <ds:DATE>2013-03-15</ds:DATE>
+    <ds:DATE>2013-10-19</ds:DATE>
+    <ds:DATE>2017-05-09</ds:DATE>
+    <ds:DATE>2012-04-25</ds:DATE>
+    <ds:DATE>2015-06-28</ds:DATE>
+    <ds:DATE>2017-06-14</ds:DATE>
+    <ds:DATE>2016-04-14</ds:DATE>
+    <ds:DATE>2014-12-30</ds:DATE>
+    <ds:DATE>2013-01-30</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">76.0</ds:TAVG>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.1</ds:WSF2>
+    <ds:DATE>2014-04-24</ds:DATE>
+    <ds:DATE>2015-06-03</ds:DATE>
+    <ds:DATE>2016-11-05</ds:DATE>
+    <ds:DATE>2014-11-30</ds:DATE>
+    <ds:DATE>2018-08-01</ds:DATE>
+    <ds:DATE>2012-04-24</ds:DATE>
+    <ds:DATE>2016-03-08</ds:DATE>
+    <ds:DATE>2017-10-05</ds:DATE>
+    <ds:DATE>2016-08-13</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.0</ds:WSF2>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.1</ds:WSF2>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.0</ds:WSF5>
+    <ds:DATE>2016-11-22</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ds:SNOW>
+    <ds:DATE>2014-09-15</ds:DATE>
+    <ds:DATE>2015-07-06</ds:DATE>
+    <ds:DATE>2017-08-06</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.0</ds:TAVG>
+    <ds:DATE>2015-02-05</ds:DATE>
+    <ds:DATE>2012-09-06</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.4</ds:SNOW>
+    <ds:DATE>2014-03-21</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ds:TMAX>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">70.0</ds:TAVG>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.1</ds:WSF2>
+    <ds:DATE>2015-04-04</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ds:TMIN>
+    <ds:DATE>2015-01-26</ds:DATE>
+    <ds:DATE>2012-04-08</ds:DATE>
+    <ds:DATE>2015-07-01</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">58.0</ds:TAVG>
+    <ds:DATE>2012-10-22</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.0</ds:TAVG>
+    <ds:DATE>2016-02-14</ds:DATE>
+    <ds:DATE>2015-10-24</ds:DATE>
+    <ds:DATE>2017-08-09</ds:DATE>
+    <ds:DATE>2015-05-05</ds:DATE>
+    <ds:DATE>2018-09-08</ds:DATE>
+    <ds:DATE>2015-09-09</ds:DATE>
+    <ds:DATE>2013-08-04</ds:DATE>
+    <ds:DATE>2015-12-12</ds:DATE>
+    <ds:DATE>2016-12-21</ds:DATE>
+    <ds:DATE>2012-01-01</ds:DATE>
+    <ds:DATE>2017-09-01</ds:DATE>
+    <ds:DATE>2013-08-12</ds:DATE>
+    <ds:DATE>2018-03-29</ds:DATE>
+    <ds:DATE>2014-12-08</ds:DATE>
+    <ds:DATE>2012-06-24</ds:DATE>
+    <ds:DATE>2013-08-14</ds:DATE>
+    <ds:DATE>2013-04-11</ds:DATE>
+    <ds:DATE>2017-10-17</ds:DATE>
+    <ds:DATE>2016-12-22</ds:DATE>
+    <ds:DATE>2014-11-23</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</ds:TMAX>
+    <ds:DATE>2014-06-04</ds:DATE>
+    <ds:DATE>2016-07-21</ds:DATE>
+    <ds:DATE>2014-02-24</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ds:TMIN>
+    <ds:DATE>2015-04-28</ds:DATE>
+    <ds:DATE>2015-09-28</ds:DATE>
+    <ds:DATE>2017-09-27</ds:DATE>
+    <ds:DATE>2015-05-30</ds:DATE>
+    <ds:DATE>2018-04-11</ds:DATE>
+    <ds:DATE>2014-11-10</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.0</ds:TAVG>
+    <ds:DATE>2013-07-19</ds:DATE>
+    <ds:DATE>2016-07-24</ds:DATE>
+    <ds:DATE>2016-06-30</ds:DATE>
+    <ds:DATE>2017-07-26</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.16</ds:AWND>
+    <ds:DATE>2012-06-25</ds:DATE>
+    <ds:DATE>2018-11-13</ds:DATE>
+    <ds:DATE>2014-06-13</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.0</ds:TAVG>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</ds:SNOW>
+    <ds:DATE>2014-02-16</ds:DATE>
+    <ds:DATE>2015-08-20</ds:DATE>
+    <ds:DATE>2013-05-25</ds:DATE>
+    <ds:DATE>2017-02-17</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.79</ds:AWND>
+    <ds:DATE>2017-09-24</ds:DATE>
+    <ds:DATE>2018-07-08</ds:DATE>
+    <ds:DATE>2018-11-23</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.0</ds:TAVG>
+    <ds:DATE>2013-07-02</ds:DATE>
+    <ds:DATE>2012-08-27</ds:DATE>
+    <ds:DATE>2017-12-02</ds:DATE>
+    <ds:DATE>2015-05-01</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.57</ds:AWND>
+    <ds:DATE>2017-08-13</ds:DATE>
+    <ds:DATE>2012-08-22</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</ds:TMIN>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.29</ds:PRCP>
+    <ds:DATE>2018-02-09</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.1</ds:WSF5>
+    <ds:DATE>2018-02-10</ds:DATE>
+    <ds:DATE>2017-07-24</ds:DATE>
+    <ds:DATE>2018-10-07</ds:DATE>
+    <ds:DATE>2014-06-20</ds:DATE>
+    <ds:DATE>2016-05-16</ds:DATE>
+    <ds:DATE>2013-12-01</ds:DATE>
+    <ds:DATE>2016-10-21</ds:DATE>
+    <ds:DATE>2012-02-25</ds:DATE>
+    <ds:DATE>2014-04-22</ds:DATE>
+    <ds:DATE>2017-03-04</ds:DATE>
+    <ds:DATE>2018-06-06</ds:DATE>
+    <ds:DATE>2016-08-28</ds:DATE>
+    <ds:DATE>2016-12-13</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.79</ds:PRCP>
+    <ds:DATE>2015-03-01</ds:DATE>
+    <ds:DATE>2016-05-22</ds:DATE>
+    <ds:DATE>2016-05-02</ds:DATE>
+    <ds:DATE>2012-02-24</ds:DATE>
+    <ds:DATE>2015-08-26</ds:DATE>
+    <ds:DATE>2015-01-15</ds:DATE>
+    <ds:DATE>2015-10-21</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ds:TMIN>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.58</ds:AWND>
+    <ds:DATE>2012-06-27</ds:DATE>
+    <ds:DATE>2014-03-15</ds:DATE>
+    <ds:DATE>2016-06-14</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.0</ds:WSF5>
+    <ds:DATE>2015-12-13</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</ds:TMAX>
+    <ds:DATE>2015-12-17</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1233.0</ds:PGTM>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.0</ds:WSF5>
+    <ds:DATE>2012-02-11</ds:DATE>
+    <ds:DATE>2015-06-20</ds:DATE>
+    <ds:DATE>2017-06-02</ds:DATE>
+    <ds:DATE>2018-07-06</ds:DATE>
+    <ds:DATE>2015-01-28</ds:DATE>
+    <ds:DATE>2015-10-18</ds:DATE>
+    <ds:DATE>2017-10-10</ds:DATE>
+    <ds:DATE>2016-07-04</ds:DATE>
+    <ds:DATE>2016-11-15</ds:DATE>
+    <ds:DATE>2013-06-07</ds:DATE>
+    <ds:DATE>2016-06-29</ds:DATE>
+    <ds:DATE>2012-03-16</ds:DATE>
+    <ds:DATE>2014-01-19</ds:DATE>
+    <ds:DATE>2015-03-17</ds:DATE>
+    <ds:DATE>2016-11-01</ds:DATE>
+    <ds:DATE>2013-09-06</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ds:TMIN>
+    <ds:DATE>2018-06-11</ds:DATE>
+    <ds:WT11 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT11>
+    <ds:DATE>2014-08-19</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ds:TMAX>
+    <ds:DATE>2015-09-06</ds:DATE>
+    <ds:DATE>2016-03-04</ds:DATE>
+    <ds:DATE>2012-10-06</ds:DATE>
+    <ds:DATE>2014-10-10</ds:DATE>
+    <ds:DATE>2013-04-27</ds:DATE>
+    <ds:DATE>2014-08-02</ds:DATE>
+    <ds:DATE>2015-09-04</ds:DATE>
+    <ds:DATE>2015-02-28</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.68</ds:PRCP>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.9</ds:AWND>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.9</ds:SNWD>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.74</ds:AWND>
+    <ds:DATE>2015-02-08</ds:DATE>
+    <ds:DATE>2014-04-13</ds:DATE>
+    <ds:DATE>2017-04-03</ds:DATE>
+    <ds:DATE>2016-11-19</ds:DATE>
+    <ds:DATE>2018-02-25</ds:DATE>
+    <ds:DATE>2015-04-20</ds:DATE>
+    <ds:DATE>2017-04-10</ds:DATE>
+    <ds:DATE>2016-08-24</ds:DATE>
+    <ds:DATE>2012-03-03</ds:DATE>
+    <ds:DATE>2014-07-24</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.0</ds:WSF2>
+    <ds:DATE>2014-08-27</ds:DATE>
+    <ds:DATE>2016-10-16</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ds:TMAX>
+    <ds:DATE>2018-02-08</ds:DATE>
+    <ds:DATE>2017-10-24</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.9</ds:WSF5>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">86.0</ds:TAVG>
+    <ds:DATE>2018-05-25</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.41</ds:PRCP>
+    <ds:DATE>2012-10-10</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.28</ds:PRCP>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.4</ds:SNOW>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.8</ds:SNWD>
+    <ds:DATE>2013-01-31</ds:DATE>
+    <ds:DATE>2012-04-11</ds:DATE>
+    <ds:DATE>2018-07-15</ds:DATE>
+    <ds:DATE>2016-06-22</ds:DATE>
+    <ds:DATE>2012-07-06</ds:DATE>
+    <ds:DATE>2017-03-16</ds:DATE>
+    <ds:DATE>2015-09-20</ds:DATE>
+    <ds:DATE>2015-04-17</ds:DATE>
+    <ds:DATE>2016-05-03</ds:DATE>
+    <ds:DATE>2017-04-14</ds:DATE>
+    <ds:DATE>2018-06-18</ds:DATE>
+    <ds:DATE>2012-12-07</ds:DATE>
+    <ds:DATE>2017-06-25</ds:DATE>
+    <ds:DATE>2014-03-07</ds:DATE>
+    <ds:DATE>2016-10-19</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ds:PRCP>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2218.0</ds:PGTM>
+    <ds:DATE>2012-11-30</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ds:TMIN>
+    <ds:DATE>2017-03-12</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">202.0</ds:PGTM>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ds:TMAX>
+    <ds:DATE>2018-03-09</ds:DATE>
+    <ds:DATE>2014-06-14</ds:DATE>
+    <ds:DATE>2016-01-31</ds:DATE>
+    <ds:DATE>2016-02-15</ds:DATE>
+    <ds:DATE>2015-04-22</ds:DATE>
+    <ds:DATE>2013-08-18</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.9</ds:WSF5>
+    <ds:DATE>2016-07-26</ds:DATE>
+    <ds:DATE>2015-10-13</ds:DATE>
+    <ds:DATE>2017-01-21</ds:DATE>
+    <ds:DATE>2014-12-17</ds:DATE>
+    <ds:DATE>2015-06-01</ds:DATE>
+    <ds:DATE>2017-08-03</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.0</ds:WSF5>
+    <ds:DATE>2013-02-23</ds:DATE>
+    <ds:DATE>2012-01-27</ds:DATE>
+    <ds:DATE>2012-02-16</ds:DATE>
+    <ds:DATE>2017-11-24</ds:DATE>
+    <ds:DATE>2012-12-03</ds:DATE>
+    <ds:DATE>2013-08-02</ds:DATE>
+    <ds:DATE>2012-07-17</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.38</ds:AWND>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.06</ds:PRCP>
+    <ds:DATE>2013-03-07</ds:DATE>
+    <ds:DATE>2018-01-03</ds:DATE>
+    <ds:DATE>2012-09-13</ds:DATE>
+    <ds:DATE>2016-04-23</ds:DATE>
+    <ds:DATE>2018-04-07</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.0</ds:TAVG>
+    <ds:DATE>2014-02-08</ds:DATE>
+    <ds:DATE>2016-11-18</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.9</ds:SNWD>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.66</ds:PRCP>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">200.0</ds:WDF5>
+    <ds:DATE>2014-10-29</ds:DATE>
+    <ds:DATE>2012-10-19</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.96</ds:PRCP>
+    <ds:DATE>2014-03-27</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ds:TMIN>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.9</ds:SNWD>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.51</ds:PRCP>
+    <ds:DATE>2014-06-27</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.0</ds:TAVG>
+    <ds:DATE>2017-12-19</ds:DATE>
+    <ds:DATE>2017-02-25</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.9</ds:WSF2>
+    <ds:DATE>2018-03-27</ds:DATE>
+    <ds:DATE>2018-11-30</ds:DATE>
+    <ds:DATE>2016-11-12</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.6</ds:SNOW>
+    <ds:DATE>2013-02-12</ds:DATE>
+    <ds:DATE>2016-09-30</ds:DATE>
+    <ds:DATE>2013-11-13</ds:DATE>
+    <ds:DATE>2012-03-27</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.49</ds:PRCP>
+    <ds:DATE>2015-09-27</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</ds:SNOW>
+    <ds:DATE>2012-04-21</ds:DATE>
+    <ds:DATE>2013-03-25</ds:DATE>
+    <ds:DATE>2013-12-25</ds:DATE>
+    <ds:DATE>2017-04-06</ds:DATE>
+    <ds:DATE>2018-03-14</ds:DATE>
+    <ds:DATE>2014-11-02</ds:DATE>
+    <ds:DATE>2018-07-04</ds:DATE>
+    <ds:DATE>2017-11-07</ds:DATE>
+    <ds:DATE>2014-10-18</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ds:TMAX>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</ds:WDF2>
+    <ds:DATE>2014-10-27</ds:DATE>
+    <ds:DATE>2012-02-06</ds:DATE>
+    <ds:DATE>2017-10-26</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.08</ds:PRCP>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">280.0</ds:WDF5>
+    <ds:DATE>2015-02-14</ds:DATE>
+    <ds:DATE>2015-03-30</ds:DATE>
+    <ds:DATE>2018-01-07</ds:DATE>
+    <ds:DATE>2017-03-23</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ds:TMAX>
+    <ds:DATE>2018-06-13</ds:DATE>
+    <ds:DATE>2012-01-15</ds:DATE>
+    <ds:DATE>2013-09-22</ds:DATE>
+    <ds:DATE>2016-07-16</ds:DATE>
+    <ds:DATE>2013-09-01</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ds:TMIN>
+    <ds:DATE>2016-10-02</ds:DATE>
+    <ds:DATE>2012-04-19</ds:DATE>
+    <ds:DATE>2018-07-14</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.54</ds:PRCP>
+    <ds:DATE>2012-05-12</ds:DATE>
+    <ds:DATE>2016-01-21</ds:DATE>
+    <ds:DATE>2013-02-08</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.54</ds:PRCP>
+    <ds:DATE>2015-02-19</ds:DATE>
+    <ds:DATE>2018-02-20</ds:DATE>
+    <ds:DATE>2013-09-12</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.54</ds:AWND>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</ds:TMAX>
+    <ds:DATE>2013-09-07</ds:DATE>
+    <ds:DATE>2017-03-05</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.9</ds:SNOW>
+    <ds:DATE>2017-02-28</ds:DATE>
+    <ds:DATE>2014-10-01</ds:DATE>
+    <ds:DATE>2014-09-08</ds:DATE>
+    <ds:DATE>2013-09-30</ds:DATE>
+    <ds:DATE>2013-12-08</ds:DATE>
+    <ds:DATE>2012-09-01</ds:DATE>
+    <ds:DATE>2015-02-25</ds:DATE>
+    <ds:DATE>2014-04-25</ds:DATE>
+    <ds:DATE>2017-08-16</ds:DATE>
+    <ds:DATE>2013-06-28</ds:DATE>
+    <ds:DATE>2012-06-13</ds:DATE>
+    <ds:DATE>2018-01-10</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</ds:TMAX>
+    <ds:DATE>2015-09-02</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.63</ds:PRCP>
+    <ds:DATE>2012-12-11</ds:DATE>
+    <ds:DATE>2017-08-22</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.0</ds:TAVG>
+    <ds:DATE>2018-04-08</ds:DATE>
+    <ds:DATE>2012-04-03</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280</ds:WDF2>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.0</ds:WSF2>
+    <ds:WT15 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT15>
+    <ds:DATE>2014-01-02</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.14</ds:PRCP>
+    <ds:DATE>2013-04-17</ds:DATE>
+    <ds:DATE>2015-11-20</ds:DATE>
+    <ds:DATE>2017-03-15</ds:DATE>
+    <ds:DATE>2018-10-19</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.1</ds:WSF5>
+    <ds:DATE>2012-02-21</ds:DATE>
+    <ds:DATE>2012-09-09</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</ds:SNOW>
+    <ds:DATE>2013-05-17</ds:DATE>
+    <ds:DATE>2018-09-26</ds:DATE>
+    <ds:DATE>2017-11-16</ds:DATE>
+    <ds:DATE>2015-06-25</ds:DATE>
+    <ds:DATE>2017-03-01</ds:DATE>
+    <ds:DATE>2013-09-11</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.8</ds:SNOW>
+    <ds:DATE>2015-07-19</ds:DATE>
+    <ds:DATE>2018-01-25</ds:DATE>
+    <ds:DATE>2014-11-15</ds:DATE>
+    <ds:DATE>2012-02-01</ds:DATE>
+    <ds:DATE>2018-03-15</ds:DATE>
+    <ds:DATE>2016-09-23</ds:DATE>
+    <ds:DATE>2012-08-30</ds:DATE>
+    <ds:DATE>2012-10-24</ds:DATE>
+    <ds:DATE>2017-12-23</ds:DATE>
+    <ds:DATE>2014-11-12</ds:DATE>
+    <ds:DATE>2012-09-19</ds:DATE>
+    <ds:DATE>2016-10-26</ds:DATE>
+    <ds:DATE>2013-09-09</ds:DATE>
+    <ds:DATE>2014-06-22</ds:DATE>
+    <ds:DATE>2013-11-10</ds:DATE>
+    <ds:DATE>2012-02-14</ds:DATE>
+    <ds:DATE>2014-06-26</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.0</ds:TAVG>
+    <ds:DATE>2017-06-30</ds:DATE>
+    <ds:DATE>2014-01-01</ds:DATE>
+    <ds:DATE>2012-05-03</ds:DATE>
+    <ds:DATE>2015-01-12</ds:DATE>
+    <ds:DATE>2018-01-09</ds:DATE>
+    <ds:DATE>2014-05-29</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.76</ds:PRCP>
+    <ds:DATE>2014-08-03</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.0</ds:SNWD>
+    <ds:DATE>2013-05-29</ds:DATE>
+    <ds:DATE>2014-08-07</ds:DATE>
+    <ds:DATE>2016-07-25</ds:DATE>
+    <ds:DATE>2013-02-11</ds:DATE>
+    <ds:DATE>2014-04-14</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.03</ds:PRCP>
+    <ds:DATE>2012-01-20</ds:DATE>
+    <ds:DATE>2012-11-18</ds:DATE>
+    <ds:DATE>2013-01-27</ds:DATE>
+    <ds:DATE>2015-07-10</ds:DATE>
+    <ds:DATE>2017-05-08</ds:DATE>
+    <ds:DATE>2018-09-14</ds:DATE>
+    <ds:DATE>2016-08-16</ds:DATE>
+    <ds:DATE>2016-06-11</ds:DATE>
+    <ds:DATE>2018-08-05</ds:DATE>
+    <ds:DATE>2015-07-30</ds:DATE>
+    <ds:DATE>2016-09-04</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</ds:WDF2>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</ds:TMAX>
+    <ds:DATE>2017-12-10</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.83</ds:AWND>
+    <ds:DATE>2013-05-19</ds:DATE>
+    <ds:DATE>2013-11-16</ds:DATE>
+    <ds:DATE>2016-01-13</ds:DATE>
+    <ds:DATE>2016-01-30</ds:DATE>
+    <ds:DATE>2015-07-18</ds:DATE>
+    <ds:DATE>2016-12-29</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</ds:TMIN>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</ds:TMAX>
+    <ds:DATE>2012-07-21</ds:DATE>
+    <ds:DATE>2013-04-08</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">87.0</ds:TAVG>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.52</ds:PRCP>
+    <ds:DATE>2016-09-16</ds:DATE>
+    <ds:DATE>2014-10-25</ds:DATE>
+    <ds:DATE>2018-07-26</ds:DATE>
+    <ds:DATE>2015-05-15</ds:DATE>
+    <ds:DATE>2018-01-16</ds:DATE>
+    <ds:DATE>2013-01-01</ds:DATE>
+    <ds:DATE>2013-08-09</ds:DATE>
+    <ds:DATE>2014-08-05</ds:DATE>
+    <ds:DATE>2017-11-14</ds:DATE>
+    <ds:DATE>2017-11-19</ds:DATE>
+    <ds:DATE>2014-07-19</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2057.0</ds:PGTM>
+    <ds:DATE>2013-08-15</ds:DATE>
+    <ds:DATE>2012-05-08</ds:DATE>
+    <ds:DATE>2015-04-15</ds:DATE>
+    <ds:DATE>2017-06-13</ds:DATE>
+    <ds:DATE>2016-06-13</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ds:WDF2>
+    <ds:DATE>2015-12-16</ds:DATE>
+    <ds:DATE>2014-09-26</ds:DATE>
+    <ds:DATE>2014-06-29</ds:DATE>
+    <ds:DATE>2016-10-01</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.65</ds:AWND>
+    <ds:DATE>2017-03-02</ds:DATE>
+    <ds:DATE>2012-04-14</ds:DATE>
+    <ds:DATE>2018-04-02</ds:DATE>
+    <ds:DATE>2013-06-15</ds:DATE>
+    <ds:DATE>2016-11-24</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">75.0</ds:TAVG>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.35</ds:PRCP>
+    <ds:DATE>2014-01-24</ds:DATE>
+    <ds:DATE>2017-11-22</ds:DATE>
+    <ds:DATE>2015-01-09</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ds:TMIN>
+    <ds:DATE>2013-12-31</ds:DATE>
+    <ds:DATE>2017-09-07</ds:DATE>
+    <ds:DATE>2018-02-24</ds:DATE>
+    <ds:DATE>2018-10-10</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.21</ds:AWND>
+    <ds:DATE>2013-04-01</ds:DATE>
+    <ds:DATE>2015-11-30</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.57</ds:AWND>
+    <ds:DATE>2013-07-20</ds:DATE>
+    <ds:DATE>2018-08-08</ds:DATE>
+    <ds:DATE>2015-02-15</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ds:TMIN>
+    <ds:DATE>2012-11-22</ds:DATE>
+    <ds:DATE>2013-12-22</ds:DATE>
+    <ds:DATE>2018-09-17</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0</ds:SNOW>
+    <ds:DATE>2015-05-19</ds:DATE>
+    <ds:DATE>2014-09-10</ds:DATE>
+    <ds:DATE>2014-05-18</ds:DATE>
+    <ds:DATE>2017-07-16</ds:DATE>
+    <ds:DATE>2018-01-18</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.94</ds:PRCP>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.2</ds:SNWD>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.9</ds:WSF2>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.71</ds:PRCP>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.1</ds:WSF5>
+    <ds:DATE>2012-10-03</ds:DATE>
+    <ds:DATE>2018-10-25</ds:DATE>
+    <ds:DATE>2017-12-05</ds:DATE>
+    <ds:DATE>2014-11-07</ds:DATE>
+    <ds:DATE>2015-11-06</ds:DATE>
+    <ds:DATE>2013-08-16</ds:DATE>
+    <ds:DATE>2017-09-15</ds:DATE>
+    <ds:DATE>2012-01-19</ds:DATE>
+    <ds:DATE>2018-08-20</ds:DATE>
+    <ds:DATE>2017-05-15</ds:DATE>
+    <ds:DATE>2014-11-04</ds:DATE>
+    <ds:DATE>2018-02-19</ds:DATE>
+    <ds:DATE>2017-07-10</ds:DATE>
+    <ds:DATE>2018-03-19</ds:DATE>
+    <ds:DATE>2012-07-07</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</ds:TMAX>
+    <ds:DATE>2016-06-10</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">54.0</ds:TAVG>
+    <ds:DATE>2015-11-29</ds:DATE>
+    <ds:DATE>2018-02-27</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</ds:PRCP>
+    <ds:DATE>2018-07-20</ds:DATE>
+    <ds:DATE>2014-09-16</ds:DATE>
+    <ds:DATE>2012-10-08</ds:DATE>
+    <ds:DATE>2012-07-20</ds:DATE>
+    <ds:DATE>2018-06-12</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8</ds:SNOW>
+    <ds:DATE>2016-08-10</ds:DATE>
+    <ds:DATE>2017-01-04</ds:DATE>
+    <ds:DATE>2015-09-26</ds:DATE>
+    <ds:DATE>2015-10-23</ds:DATE>
+    <ds:DATE>2012-08-24</ds:DATE>
+    <ds:DATE>2017-02-16</ds:DATE>
+    <ds:DATE>2013-01-13</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.2</ds:PRCP>
+    <ds:DATE>2018-12-09</ds:DATE>
+    <ds:DATE>2012-11-10</ds:DATE>
+    <ds:DATE>2015-05-25</ds:DATE>
+    <ds:DATE>2018-06-24</ds:DATE>
+    <ds:DATE>2013-03-21</ds:DATE>
+    <ds:DATE>2014-05-02</ds:DATE>
+    <ds:DATE>2014-07-02</ds:DATE>
+    <ds:DATE>2018-10-28</ds:DATE>
+    <ds:DATE>2017-08-19</ds:DATE>
+    <ds:DATE>2015-02-03</ds:DATE>
+    <ds:DATE>2014-08-16</ds:DATE>
+    <ds:DATE>2014-10-17</ds:DATE>
+    <ds:DATE>2013-04-24</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.71</ds:PRCP>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2242.0</ds:PGTM>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">270.0</ds:WDF5>
+    <ds:DATE>2018-11-08</ds:DATE>
+    <ds:DATE>2016-03-06</ds:DATE>
+    <ds:DATE>2014-01-11</ds:DATE>
+    <ds:DATE>2013-04-07</ds:DATE>
+    <ds:DATE>2016-08-20</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.0</ds:TAVG>
+    <ds:DATE>2014-11-09</ds:DATE>
+    <ds:DATE>2014-04-05</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ds:TMIN>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.14</ds:AWND>
+    <ds:DATE>2013-08-07</ds:DATE>
+    <ds:DATE>2014-09-03</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.26</ds:PRCP>
+    <ds:DATE>2018-09-19</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.1</ds:WSF2>
+    <ds:DATE>2018-10-13</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.43</ds:AWND>
+    <ds:DATE>2016-01-27</ds:DATE>
+    <ds:DATE>2015-12-18</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ds:TMIN>
+    <ds:DATE>2013-11-27</ds:DATE>
+    <ds:DATE>2012-03-07</ds:DATE>
+    <ds:DATE>2013-06-19</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</ds:AWND>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</ds:TMAX>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.99</ds:PRCP>
+    <ds:DATE>2013-07-11</ds:DATE>
+    <ds:DATE>2013-11-20</ds:DATE>
+    <ds:DATE>2017-09-22</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.84</ds:AWND>
+    <ds:DATE>2012-07-08</ds:DATE>
+    <ds:DATE>2016-06-27</ds:DATE>
+    <ds:DATE>2017-12-24</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</ds:SNWD>
+    <ds:DATE>2018-11-14</ds:DATE>
+    <ds:DATE>2013-12-14</ds:DATE>
+    <ds:DATE>2015-09-17</ds:DATE>
+    <ds:DATE>2018-11-27</ds:DATE>
+    <ds:DATE>2013-08-05</ds:DATE>
+    <ds:DATE>2012-11-01</ds:DATE>
+    <ds:DATE>2017-12-27</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</ds:PRCP>
+    <ds:DATE>2014-02-03</ds:DATE>
+    <ds:DATE>2016-02-27</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</ds:TMAX>
+    <ds:DATE>2012-12-15</ds:DATE>
+    <ds:DATE>2012-04-22</ds:DATE>
+    <ds:DATE>2017-12-31</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.0</ds:TAVG>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">73.0</ds:TAVG>
+    <ds:DATE>2013-07-05</ds:DATE>
+    <ds:DATE>2013-11-15</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.29</ds:AWND>
+    <ds:DATE>2018-05-06</ds:DATE>
+    <ds:DATE>2018-10-05</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.0</ds:TAVG>
+    <ds:DATE>2017-02-06</ds:DATE>
+    <ds:DATE>2018-12-13</ds:DATE>
+    <ds:DATE>2012-07-02</ds:DATE>
+    <ds:DATE>2016-10-29</ds:DATE>
+    <ds:DATE>2015-10-05</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ds:WDF2>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</ds:TMIN>
+    <ds:DATE>2015-07-05</ds:DATE>
+    <ds:DATE>2015-12-27</ds:DATE>
+    <ds:DATE>2017-11-27</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.9</ds:WSF2>
+    <ds:DATE>2012-10-27</ds:DATE>
+    <ds:DATE>2018-01-31</ds:DATE>
+    <ds:DATE>2015-01-20</ds:DATE>
+    <ds:DATE>2017-12-12</ds:DATE>
+    <ds:DATE>2015-09-07</ds:DATE>
+    <ds:DATE>2017-04-08</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.6</ds:SNOW>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.39</ds:PRCP>
+    <ds:DATE>2014-08-21</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.2</ds:PRCP>
+    <ds:DATE>2012-01-16</ds:DATE>
+    <ds:DATE>2017-07-03</ds:DATE>
+    <ds:DATE>2018-04-22</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.25</ds:PRCP>
+    <ds:DATE>2012-07-13</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.0</ds:WSF2>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.48</ds:PRCP>
+    <ds:DATE>2013-11-29</ds:DATE>
+    <ds:DATE>2014-12-27</ds:DATE>
+    <ds:DATE>2017-01-03</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ds:SNWD>
+    <ds:DATE>2015-06-10</ds:DATE>
+    <ds:DATE>2016-12-07</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.44</ds:PRCP>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-7</ds:TMIN>
+    <ds:DATE>2016-10-05</ds:DATE>
+    <ds:DATE>2012-06-09</ds:DATE>
+    <ds:DATE>2013-08-26</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.75</ds:AWND>
+    <ds:DATE>2017-08-17</ds:DATE>
+    <ds:DATE>2018-05-19</ds:DATE>
+    <ds:DATE>2012-07-03</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</ds:PRCP>
+    <ds:DATE>2014-12-19</ds:DATE>
+    <ds:DATE>2017-06-27</ds:DATE>
+    <ds:DATE>2018-05-21</ds:DATE>
+    <ds:DATE>2013-12-13</ds:DATE>
+    <ds:DATE>2013-08-06</ds:DATE>
+    <ds:DATE>2016-08-02</ds:DATE>
+    <ds:DATE>2017-04-23</ds:DATE>
+    <ds:DATE>2012-06-15</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ds:TMAX>
+    <ds:DATE>2018-12-27</ds:DATE>
+    <ds:DATE>2016-06-15</ds:DATE>
+    <ds:DATE>2016-03-28</ds:DATE>
+    <ds:DATE>2014-05-28</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ds:WDF2>
+    <ds:DATE>2016-08-31</ds:DATE>
+    <ds:DATE>2015-09-01</ds:DATE>
+    <ds:DATE>2014-04-02</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</ds:TMAX>
+    <ds:DATE>2013-12-12</ds:DATE>
+    <ds:DATE>2018-03-17</ds:DATE>
+    <ds:DATE>2016-05-24</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</ds:PRCP>
+    <ds:DATE>2012-05-07</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.29</ds:PRCP>
+    <ds:DATE>2018-02-22</ds:DATE>
+    <ds:DATE>2014-05-10</ds:DATE>
+    <ds:DATE>2012-01-08</ds:DATE>
+    <ds:DATE>2015-08-31</ds:DATE>
+    <ds:DATE>2012-03-05</ds:DATE>
+    <ds:DATE>2012-12-22</ds:DATE>
+    <ds:DATE>2013-01-19</ds:DATE>
+    <ds:DATE>2013-04-18</ds:DATE>
+    <ds:DATE>2014-07-16</ds:DATE>
+    <ds:DATE>2015-07-25</ds:DATE>
+    <ds:DATE>2016-11-04</ds:DATE>
+    <ds:DATE>2014-04-30</ds:DATE>
+    <ds:DATE>2015-11-03</ds:DATE>
+    <ds:DATE>2015-08-03</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.64</ds:PRCP>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.42</ds:AWND>
+    <ds:DATE>2013-03-20</ds:DATE>
+    <ds:DATE>2015-12-05</ds:DATE>
+    <ds:DATE>2012-05-27</ds:DATE>
+    <ds:DATE>2012-11-29</ds:DATE>
+    <ds:DATE>2016-08-22</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.1</ds:WSF5>
+    <ds:DATE>2012-11-19</ds:DATE>
+    <ds:DATE>2018-01-08</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</ds:SNOW>
+    <ds:DATE>2018-08-22</ds:DATE>
+    <ds:DATE>2017-06-20</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.0</ds:TAVG>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</ds:WDF2>
+    <ds:DATE>2014-08-12</ds:DATE>
+    <ds:DATE>2014-03-20</ds:DATE>
+    <ds:DATE>2013-05-15</ds:DATE>
+    <ds:DATE>2012-09-26</ds:DATE>
+    <ds:DATE>2014-07-05</ds:DATE>
+    <ds:DATE>2015-04-03</ds:DATE>
+    <ds:DATE>2018-09-23</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ds:TMAX>
+    <ds:DATE>2017-01-20</ds:DATE>
+    <ds:DATE>2014-01-30</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</ds:TMIN>
+    <ds:DATE>2013-06-30</ds:DATE>
+    <ds:DATE>2016-03-05</ds:DATE>
+    <ds:DATE>2018-08-03</ds:DATE>
+    <ds:DATE>2016-09-07</ds:DATE>
+    <ds:DATE>2017-02-14</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ds:TMIN>
+    <ds:DATE>2015-12-10</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">67.0</ds:TAVG>
+    <ds:DATE>2015-01-25</ds:DATE>
+    <ds:DATE>2016-12-04</ds:DATE>
+    <ds:DATE>2015-02-27</ds:DATE>
+    <ds:DATE>2017-12-04</ds:DATE>
+    <ds:DATE>2015-03-29</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1327.0</ds:PGTM>
+    <ds:DATE>2018-06-27</ds:DATE>
+    <ds:DATE>2015-07-21</ds:DATE>
+    <ds:DATE>2017-06-16</ds:DATE>
+    <ds:DATE>2013-10-31</ds:DATE>
+    <ds:DATE>2013-06-25</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</ds:TMAX>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</ds:TMAX>
+    <ds:DATE>2012-06-22</ds:DATE>
+    <ds:DATE>2014-11-20</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.0</ds:TAVG>
+    <ds:DATE>2013-01-04</ds:DATE>
+    <ds:DATE>2016-03-10</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.1</ds:WSF5>
+    <ds:DATE>2014-03-28</ds:DATE>
+    <ds:DATE>2015-04-07</ds:DATE>
+    <ds:DATE>2018-08-30</ds:DATE>
+    <ds:DATE>2018-12-08</ds:DATE>
+    <ds:DATE>2018-05-05</ds:DATE>
+    <ds:DATE>2015-01-22</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">63.0</ds:TAVG>
+    <ds:DATE>2018-04-29</ds:DATE>
+    <ds:DATE>2013-12-17</ds:DATE>
+    <ds:DATE>2018-12-12</ds:DATE>
+    <ds:DATE>2013-11-17</ds:DATE>
+    <ds:DATE>2016-12-18</ds:DATE>
+    <ds:DATE>2018-03-01</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.1</ds:WSF5>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.2</ds:SNOW>
+    <ds:DATE>2016-02-05</ds:DATE>
+    <ds:DATE>2016-10-11</ds:DATE>
+    <ds:DATE>2014-04-11</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.6</ds:SNOW>
+    <ds:DATE>2016-09-29</ds:DATE>
+    <ds:DATE>2013-12-03</ds:DATE>
+    <ds:DATE>2014-02-21</ds:DATE>
+    <ds:DATE>2014-12-24</ds:DATE>
+    <ds:DATE>2012-02-27</ds:DATE>
+    <ds:DATE>2014-01-08</ds:DATE>
+    <ds:DATE>2015-05-31</ds:DATE>
+    <ds:DATE>2015-09-22</ds:DATE>
+    <ds:DATE>2016-04-28</ds:DATE>
+    <ds:DATE>2014-12-06</ds:DATE>
+    <ds:DATE>2016-09-08</ds:DATE>
+    <ds:DATE>2017-03-11</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ds:TMIN>
+    <ds:DATE>2013-04-29</ds:DATE>
+    <ds:DATE>2014-06-07</ds:DATE>
+    <ds:DATE>2016-01-07</ds:DATE>
+    <ds:DATE>2015-06-07</ds:DATE>
+    <ds:DATE>2018-02-05</ds:DATE>
+    <ds:DATE>2018-04-26</ds:DATE>
+    <ds:DATE>2013-12-10</ds:DATE>
+    <ds:DATE>2013-05-28</ds:DATE>
+    <ds:DATE>2017-09-09</ds:DATE>
+    <ds:DATE>2018-07-10</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ds:TMIN>
+    <ds:DATE>2016-05-10</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.62</ds:AWND>
+    <ds:DATE>2013-08-27</ds:DATE>
+    <ds:DATE>2013-10-29</ds:DATE>
+    <ds:DATE>2015-05-07</ds:DATE>
+    <ds:DATE>2016-03-12</ds:DATE>
+    <ds:DATE>2012-01-10</ds:DATE>
+    <ds:DATE>2012-08-12</ds:DATE>
+    <ds:DATE>2017-02-15</ds:DATE>
+    <ds:DATE>2014-02-18</ds:DATE>
+    <ds:DATE>2014-08-24</ds:DATE>
+    <ds:DATE>2012-06-06</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1121.0</ds:PGTM>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.1</ds:WSF2>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ds:TMIN>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.9</ds:SNOW>
+    <ds:DATE>2016-12-25</ds:DATE>
+    <ds:DATE>2014-08-22</ds:DATE>
+    <ds:DATE>2017-05-11</ds:DATE>
+    <ds:DATE>2018-12-14</ds:DATE>
+    <ds:DATE>2012-02-08</ds:DATE>
+    <ds:DATE>2014-04-28</ds:DATE>
+    <ds:DATE>2014-01-03</ds:DATE>
+    <ds:DATE>2016-03-03</ds:DATE>
+    <ds:DATE>2015-09-18</ds:DATE>
+    <ds:DATE>2014-07-17</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ds:TMIN>
+    <ds:DATE>2013-02-24</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.0</ds:WSF5>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</ds:TMAX>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.0</ds:WSF5>
+    <ds:DATE>2013-05-03</ds:DATE>
+    <ds:DATE>2013-07-31</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.12</ds:PRCP>
+    <ds:DATE>2015-01-18</ds:DATE>
+    <ds:DATE>2017-05-14</ds:DATE>
+    <ds:DATE>2016-04-06</ds:DATE>
+    <ds:DATE>2013-12-30</ds:DATE>
+    <ds:DATE>2012-12-13</ds:DATE>
+    <ds:DATE>2012-02-23</ds:DATE>
+    <ds:DATE>2014-09-05</ds:DATE>
+    <ds:DATE>2015-12-23</ds:DATE>
+    <ds:DATE>2015-09-24</ds:DATE>
+    <ds:DATE>2014-03-14</ds:DATE>
+    <ds:DATE>2015-01-03</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.0</ds:WSF5>
+    <ds:DATE>2018-11-26</ds:DATE>
+    <ds:DATE>2015-11-13</ds:DATE>
+    <ds:DATE>2014-03-13</ds:DATE>
+    <ds:DATE>2013-06-11</ds:DATE>
+    <ds:DATE>2016-05-13</ds:DATE>
+    <ds:DATE>2015-12-03</ds:DATE>
+    <ds:DATE>2017-06-26</ds:DATE>
+    <ds:DATE>2013-03-23</ds:DATE>
+    <ds:DATE>2018-06-01</ds:DATE>
+    <ds:DATE>2012-04-16</ds:DATE>
+    <ds:DATE>2018-08-23</ds:DATE>
+    <ds:DATE>2014-09-22</ds:DATE>
+    <ds:DATE>2013-01-16</ds:DATE>
+    <ds:DATE>2018-09-20</ds:DATE>
+    <ds:DATE>2012-05-09</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.46</ds:PRCP>
+    <ds:DATE>2015-12-21</ds:DATE>
+    <ds:DATE>2012-10-18</ds:DATE>
+    <ds:DATE>2012-11-11</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">130.0</ds:WDF5>
+    <ds:DATE>2013-03-26</ds:DATE>
+    <ds:DATE>2018-08-19</ds:DATE>
+    <ds:DATE>2014-05-27</ds:DATE>
+    <ds:DATE>2012-06-19</ds:DATE>
+    <ds:DATE>2016-07-30</ds:DATE>
+    <ds:DATE>2014-02-12</ds:DATE>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">330.0</ds:WDF5>
+    <ds:DATE>2014-06-19</ds:DATE>
+    <ds:DATE>2012-06-23</ds:DATE>
+    <ds:DATE>2013-04-12</ds:DATE>
+    <ds:DATE>2014-09-06</ds:DATE>
+    <ds:DATE>2015-05-29</ds:DATE>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.4</ds:SNOW>
+    <ds:DATE>2012-01-31</ds:DATE>
+    <ds:DATE>2013-07-06</ds:DATE>
+    <ds:DATE>2016-06-26</ds:DATE>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ds:TMIN>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">62.0</ds:TAVG>
+    <ds:DATE>2014-10-09</ds:DATE>
+    <ds:DATE>2017-12-07</ds:DATE>
+    <ds:DATE>2012-08-29</ds:DATE>
+    <ds:DATE>2013-12-18</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.25</ds:AWND>
+    <ds:DATE>2015-11-21</ds:DATE>
+    <ds:DATE>2016-05-23</ds:DATE>
+    <ds:DATE>2018-03-24</ds:DATE>
+    <ds:DATE>2013-07-10</ds:DATE>
+    <ds:DATE>2013-10-17</ds:DATE>
+    <ds:DATE>2014-02-05</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.95</ds:AWND>
+    <ds:DATE>2016-05-20</ds:DATE>
+    <ds:DATE>2017-06-15</ds:DATE>
+    <ds:DATE>2017-12-22</ds:DATE>
+    <ds:DATE>2018-12-23</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">74.0</ds:TAVG>
+    <ds:TMIN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</ds:TMIN>
+    <ds:DATE>2016-04-19</ds:DATE>
+    <ds:DATE>2016-12-11</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.2</ds:SNWD>
+    <ds:DATE>2014-03-30</ds:DATE>
+    <ds:DATE>2017-09-05</ds:DATE>
+    <ds:DATE>2017-09-20</ds:DATE>
+    <ds:DATE>2018-09-25</ds:DATE>
+    <ds:DATE>2014-12-15</ds:DATE>
+    <ds:DATE>2016-06-04</ds:DATE>
+    <ds:SNWD rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.1</ds:SNWD>
+    <ds:DATE>2016-03-30</ds:DATE>
+    <ds:DATE>2018-03-12</ds:DATE>
+    <ds:DATE>2013-06-24</ds:DATE>
+    <ds:DATE>2014-08-17</ds:DATE>
+    <ds:WT06 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:WT06>
+    <ds:DATE>2018-03-06</ds:DATE>
+    <ds:DATE>2015-03-19</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.9</ds:WSF2>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.0</ds:TAVG>
+    <ds:DATE>2015-08-19</ds:DATE>
+    <ds:DATE>2018-05-11</ds:DATE>
+    <ds:DATE>2012-02-29</ds:DATE>
+    <ds:DATE>2016-04-13</ds:DATE>
+    <ds:DATE>2017-10-11</ds:DATE>
+    <ds:DATE>2012-03-17</ds:DATE>
+    <ds:DATE>2013-10-21</ds:DATE>
+    <ds:DATE>2018-03-04</ds:DATE>
+    <ds:DATE>2018-09-02</ds:DATE>
+    <ds:DATE>2012-02-20</ds:DATE>
+    <ds:DATE>2015-08-14</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.28</ds:PRCP>
+    <ds:DATE>2015-04-26</ds:DATE>
+    <ds:DATE>2012-09-07</ds:DATE>
+    <ds:DATE>2018-04-30</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</ds:TMAX>
+    <ds:DATE>2013-01-14</ds:DATE>
+    <ds:DATE>2017-06-06</ds:DATE>
+    <ds:DATE>2015-05-04</ds:DATE>
+    <ds:DATE>2012-12-19</ds:DATE>
+    <ds:DATE>2017-02-23</ds:DATE>
+    <ds:DATE>2018-06-26</ds:DATE>
+    <ds:DATE>2013-03-28</ds:DATE>
+    <ds:DATE>2015-11-17</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.0</ds:WSF2>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.9</ds:WSF2>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.08</ds:PRCP>
+    <ds:DATE>2013-10-22</ds:DATE>
+    <ds:DATE>2013-03-10</ds:DATE>
+    <ds:DATE>2012-03-31</ds:DATE>
+    <ds:DATE>2012-04-27</ds:DATE>
+    <ds:DATE>2014-08-11</ds:DATE>
+    <ds:DATE>2017-07-18</ds:DATE>
+    <ds:DATE>2013-04-03</ds:DATE>
+    <ds:DATE>2017-05-24</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.77</ds:PRCP>
+    <ds:DATE>2013-01-23</ds:DATE>
+    <ds:DATE>2015-04-11</ds:DATE>
+    <ds:DATE>2018-01-29</ds:DATE>
+    <ds:DATE>2015-04-23</ds:DATE>
+    <ds:DATE>2015-09-21</ds:DATE>
+    <ds:DATE>2012-11-14</ds:DATE>
+    <ds:DATE>2018-09-30</ds:DATE>
+    <ds:DATE>2014-03-06</ds:DATE>
+    <ds:DATE>2017-09-29</ds:DATE>
+    <ds:DATE>2013-10-16</ds:DATE>
+    <ds:DATE>2014-02-20</ds:DATE>
+    <ds:DATE>2012-08-21</ds:DATE>
+    <ds:DATE>2012-03-14</ds:DATE>
+    <ds:DATE>2013-03-02</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.07</ds:AWND>
+    <ds:DATE>2013-09-25</ds:DATE>
+    <ds:DATE>2017-03-25</ds:DATE>
+    <ds:DATE>2017-05-29</ds:DATE>
+    <ds:DATE>2016-05-01</ds:DATE>
+    <ds:DATE>2013-12-11</ds:DATE>
+    <ds:DATE>2012-09-15</ds:DATE>
+    <ds:DATE>2013-10-13</ds:DATE>
+    <ds:DATE>2013-09-28</ds:DATE>
+    <ds:DATE>2016-09-02</ds:DATE>
+    <ds:DATE>2015-02-10</ds:DATE>
+    <ds:DATE>2015-04-06</ds:DATE>
+    <ds:DATE>2014-03-24</ds:DATE>
+    <ds:DATE>2018-11-29</ds:DATE>
+    <ds:DATE>2017-02-18</ds:DATE>
+    <ds:DATE>2015-12-20</ds:DATE>
+    <ds:DATE>2015-10-22</ds:DATE>
+    <ds:DATE>2012-04-02</ds:DATE>
+    <ds:DATE>2013-05-26</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.17</ds:PRCP>
+    <ds:DATE>2014-10-08</ds:DATE>
+    <ds:DATE>2012-08-20</ds:DATE>
+    <ds:DATE>2012-05-20</ds:DATE>
+    <ds:DATE>2012-12-17</ds:DATE>
+    <ds:DATE>2017-01-13</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.67</ds:AWND>
+    <ds:DATE>2015-10-03</ds:DATE>
+    <ds:DATE>2012-04-12</ds:DATE>
+    <ds:DATE>2012-02-22</ds:DATE>
+    <ds:DATE>2014-03-02</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1413.0</ds:PGTM>
+    <ds:WDF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">260.0</ds:WDF5>
+    <ds:DATE>2016-10-14</ds:DATE>
+    <ds:DATE>2015-12-22</ds:DATE>
+    <ds:DATE>2013-07-27</ds:DATE>
+    <ds:DATE>2015-10-30</ds:DATE>
+    <ds:DATE>2015-07-08</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.28</ds:AWND>
+    <ds:DATE>2017-11-18</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.81</ds:PRCP>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.22</ds:PRCP>
+    <ds:DATE>2017-02-11</ds:DATE>
+    <ds:DATE>2017-03-24</ds:DATE>
+    <ds:DATE>2018-10-09</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.1</ds:WSF2>
+    <ds:DATE>2017-04-28</ds:DATE>
+    <ds:DATE>2012-03-04</ds:DATE>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.1</ds:WSF2>
+    <ds:DATE>2018-02-01</ds:DATE>
+    <ds:DATE>2016-11-08</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</ds:PRCP>
+    <ds:DATE>2014-02-26</ds:DATE>
+    <ds:DATE>2012-11-26</ds:DATE>
+    <ds:DATE>2012-07-05</ds:DATE>
+    <ds:DATE>2013-10-11</ds:DATE>
+    <ds:DATE>2016-07-23</ds:DATE>
+    <ds:DATE>2017-05-31</ds:DATE>
+    <ds:PGTM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.0</ds:PGTM>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</ds:PRCP>
+    <ds:DATE>2014-05-15</ds:DATE>
+    <ds:DATE>2016-01-14</ds:DATE>
+    <ds:DATE>2012-06-17</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.15</ds:PRCP>
+    <ds:DATE>2012-09-23</ds:DATE>
+    <ds:DATE>2013-07-30</ds:DATE>
+    <ds:DATE>2014-02-09</ds:DATE>
+    <ds:DATE>2017-01-29</ds:DATE>
+    <ds:DATE>2018-09-21</ds:DATE>
+    <ds:DATE>2017-09-18</ds:DATE>
+    <ds:DATE>2012-12-05</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ds:PRCP>
+    <ds:SNOW rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.5</ds:SNOW>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.07</ds:PRCP>
+    <ds:DATE>2013-04-16</ds:DATE>
+    <ds:DATE>2014-08-01</ds:DATE>
+    <ds:DATE>2016-12-14</ds:DATE>
+    <ds:DATE>2014-11-01</ds:DATE>
+    <ds:DATE>2018-03-30</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.0</ds:WSF5>
+    <ds:DATE>2015-10-16</ds:DATE>
+    <ds:DATE>2016-04-20</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.94</ds:PRCP>
+    <ds:DATE>2017-07-28</ds:DATE>
+    <ds:DATE>2015-11-11</ds:DATE>
+    <ds:DATE>2018-04-04</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.15</ds:PRCP>
+    <ds:DATE>2013-07-23</ds:DATE>
+    <ds:DATE>2018-09-06</ds:DATE>
+    <ds:DATE>2015-08-12</ds:DATE>
+    <ds:DATE>2014-04-08</ds:DATE>
+    <ds:DATE>2018-09-07</ds:DATE>
+    <ds:AWND rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.45</ds:AWND>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">78.0</ds:TAVG>
+    <ds:WSF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.0</ds:WSF2>
+    <ds:DATE>2017-09-08</ds:DATE>
+    <ds:DATE>2016-05-30</ds:DATE>
+    <ds:DATE>2016-04-09</ds:DATE>
+    <ds:DATE>2012-06-02</ds:DATE>
+    <ds:DATE>2016-01-26</ds:DATE>
+    <ds:WSF5 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.0</ds:WSF5>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.21</ds:PRCP>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ds:TMAX>
+    <ds:DATE>2013-06-12</ds:DATE>
+    <ds:DATE>2015-06-23</ds:DATE>
+    <ds:DATE>2015-09-19</ds:DATE>
+    <ds:TMAX rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</ds:TMAX>
+    <ds:DATE>2018-09-27</ds:DATE>
+    <ds:DATE>2015-10-04</ds:DATE>
+    <ds:DATE>2012-12-30</ds:DATE>
+    <ds:DATE>2014-12-28</ds:DATE>
+    <ds:DATE>2017-07-12</ds:DATE>
+    <ds:DATE>2018-09-05</ds:DATE>
+    <ds:DATE>2012-11-09</ds:DATE>
+    <ds:DATE>2018-08-27</ds:DATE>
+    <ds:DATE>2013-04-14</ds:DATE>
+    <ds:DATE>2015-02-02</ds:DATE>
+    <ds:DATE>2012-12-06</ds:DATE>
+    <ds:DATE>2012-05-10</ds:DATE>
+    <ds:DATE>2013-10-05</ds:DATE>
+    <ds:DATE>2017-08-31</ds:DATE>
+    <ds:DATE>2018-11-07</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65.0</ds:TAVG>
+    <ds:DATE>2014-06-25</ds:DATE>
+    <ds:DATE>2015-06-12</ds:DATE>
+    <ds:DATE>2016-03-09</ds:DATE>
+    <ds:DATE>2012-01-12</ds:DATE>
+    <ds:TAVG rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.0</ds:TAVG>
+    <ds:DATE>2016-07-22</ds:DATE>
+    <ds:DATE>2016-10-07</ds:DATE>
+    <ds:DATE>2018-12-05</ds:DATE>
+    <ds:PRCP rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.14</ds:PRCP>
+    <ds:DATE>2016-11-07</ds:DATE>
+    <ds:DATE>2014-09-11</ds:DATE>
+    <ds:DATE>2013-11-28</ds:DATE>
+    <ds:DATE>2013-02-19</ds:DATE>
+    <ds:WDF2 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</ds:WDF2>
+    <ds:DATE>2012-08-28</ds:DATE>
+  </dsbase:Person>
+</rdf:RDF>
