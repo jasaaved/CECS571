@@ -14,7 +14,7 @@
 
 6. Click on the 'add data' button to upload the datasets on the server
 
-7. Click on select files button and upload the 'complex.rdf' and 'Connecticut_Weather.owl' from the folder 'Project3'
+7. Click on select files button and upload the 'accidents.rdf', 'EmploymentRates.rdf' and 'Connecticut_Weather.owl' from the folder 'Project3'
 
 8. Once the dataset is uploaded to the server, click on the query tab beside the upload files tab
 
