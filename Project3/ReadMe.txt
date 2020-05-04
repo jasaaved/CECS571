@@ -18,8 +18,10 @@
 
 8. Once the dataset is uploaded to the server, click on the query tab beside the upload files tab
 
-9. Enter the queries in SPARQL format in the textbox provided
+9. Enter the queries in SPARQL format in the textbox provided 
 
-10. Click the run button for the results to be displayed below
+10. The queries we came up with for the datasets are provided in the Queries document
+
+11. Click the run button for the results to be displayed below
 
 
