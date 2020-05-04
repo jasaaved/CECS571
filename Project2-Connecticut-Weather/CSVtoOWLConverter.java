@@ -65,7 +65,7 @@ public class CSVtoOWLConverter {
         out.write("    <latitude rdf:datatype=\"http://www.w3.org/2001/XMLSchema#float\">" + csvRow[2] + "</latitude>\n");
         out.write("    <longitude rdf:datatype=\"http://www.w3.org/2001/XMLSchema#float\">" + csvRow[3] + "</longitude>\n");
         out.write("    <elevation rdf:datatype=\"http://www.w3.org/2001/XMLSchema#float\">" + csvRow[4] + "</elevation>\n");
-        out.write("    <date rdf:datatype=\"http://www.w3.org/2001/XMLSchema#string\">" + csvRow[5] + "</date>\n");
+        out.write("    <xsd:date rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">" +convertDateFormat(csvRow[5]) + "</xsd:date>\n");
         out.write("</owl:NamedIndividual>\n\n");
 
         out.write("<!-- http://www.semanticweb.org/davidcaplin/ontologies/2020/2/Connecticut-Weather#weather_Instance_" + rowCount +" -->\n\n");
@@ -82,7 +82,31 @@ public class CSVtoOWLConverter {
         out.write("</owl:NamedIndividual>\n\n\n\n");
 
         rowCount++;
-        }
+    }
+
+    //converts dates from 1/2/2012 to 2012-01-02
+    private String convertDateFormat(String oldDate) {
+        //convert to string builder
+        StringBuilder date = new StringBuilder();
+        date.append(oldDate);
+
+        //add the prepending 0s for months and days that are only 1 digit
+        if(date.charAt(1) == '/')
+            date.insert(0,"0");
+        if(date.charAt(date.indexOf("/")+2) == '/')
+            date.insert(date.indexOf("/")+1,"0");
+
+        //puts year first instead of last
+        date.insert(0,date.substring(date.length()-4,date.length()).concat("/"));
+        date.delete(date.length()-5,date.length());
+
+        //swap out forward slashes for dashes and return
+        return date.toString().replaceAll("/","-");
+        //return date.toString();
+        //Date.replaceAll("/","-");
+
+
+    }
 
     //closes CSV and OWL files
     public void closeFiles() throws IOException {
